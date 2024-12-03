@@ -1,7 +1,7 @@
 ---
 title: 'Home'
 date: 2018-02-12T15:37:57+07:00
-heroHeading: 'M²LInES - Multiscale Machine Learning In Coupled Earth System Modeling'
-heroSubHeading: 'M²LInES (pronounced M-square-lines) is an international collaborative project with the goal of improving climate projections, using scientific and interpretable Machine Learning to capture unaccounted physical processes at the air-sea-ice interface.'
+heroHeading: 'InMOS - Integration of Models and Observations across Scales'
+heroSubHeading: 'InCOM is an international collaborative project with the primary objective of InMOS is to produce a robust global synthesis of the cycling, redistribution and storage of carbon, O2, and heat in the ocean since pre-industrial times.'
 heroBackground: 'images/ishan-seefromthesky-eWSh-bkaKU8-unsplash.jpg'
 ---
