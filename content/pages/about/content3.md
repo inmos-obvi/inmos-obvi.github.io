@@ -7,4 +7,6 @@ align: right
 color: white
 ---
 
-Our project leads the developement of machine learning models for climate physics, and ultimately of interpretable data-driven models to deepen our understanding of complex multiscale processes in the climate system.
+Our project will create an Machine Learning Emulator (MLE) using deep neural networks (NNs). The MLE evolves the state of the ocean and atmosphere in time, leveraging recent spectacular success of MLEs for short-term geophysical turbulence and weather forecasts [51] and their
+use to enhance Data assimilation (DA).
+<!--- leads the developement of machine learning models for climate physics, and ultimately of interpretable data-driven models to deepen our understanding of complex multiscale processes in the climate system.--->
