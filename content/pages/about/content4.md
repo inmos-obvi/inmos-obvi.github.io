@@ -6,7 +6,10 @@ background: /images/ant-rozetsky-unsplash.jpg
 align: left
 ---
 
-# This innovative effort leverages the availability of big data from high-resolution simulations, as well as data assimilation products (combining models and observations), with powerful machine learning algorithms to improve the representation of subgrid physics in the ocean, sea-ice and atmosphere components of existing climate models.
+<!---
+This innovative effort leverages the availability of big data from high-resolution simulations, as well as data assimilation products (combining models and observations), with powerful machine learning algorithms to improve the representation of subgrid physics in the ocean, sea-ice and atmosphere components of existing climate models.)
+-->
+
 **Major innovations include:**
 1. Bridging the gap between two classes of state-of-the art models: (i) Assimilation systems that are
 optimized to describe the long-term ocean mean state. (ii) High resolution forward ocean models
