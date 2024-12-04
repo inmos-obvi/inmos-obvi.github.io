@@ -1,5 +1,6 @@
 # baseURL = "https://m2lines.github.io/"
-baseURL = "https://paopao74cn.github.io/InMOS-m2lines/"
+# baseURL = "https://paopao74cn.github.io/InMOS-m2lines/"
+baseURL = "https://paopao74cn.github.io/"
 relativeURLs = "True"
 canonifyURLs = "True"
 languageCode = "en-us"
