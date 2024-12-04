@@ -22,9 +22,9 @@ enableEmoji = true
 
  [params.logo]
   # mobile = '/images/newlogo.png'
-  mobile = '/images/InMOSLogo.png'
+  mobile = '/static/images/InMOSLogo.png'
   # desktop = '/images/newlogo.png'
-  desktop = '/images/InMOSLogo.png'
+  desktop = '/static/images/InMOSLogo.png'
   desktop_height = "48px"
   mobile_height = "24px"
 
