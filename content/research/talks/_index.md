@@ -1,6 +1,6 @@
 ---
 title: 'Talks'
-heroHeading: 'Talks'
+heroHeading: 'Talks/Presentations/Recordings'
 heroSubHeading: ''
 heroBackground: '/images/headway-F2KRf_QfCqw-unsplash.jpeg'
 tags:

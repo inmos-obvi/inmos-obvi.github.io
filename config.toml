@@ -55,11 +55,6 @@ enableEmoji = true
     weight = 1
 
 
-# [[menu.main]]
-    # name = "Join us"
-    # url = "/jobs/"
-    # weight = 2
-
 [[menu.main]]
     identifier = "team"
     name = "Team"
@@ -82,28 +77,34 @@ enableEmoji = true
 
 
 [[menu.main]]
-	# identifier = "research"
-    # name = "Research"
-    # weight = 4
+	identifier = "research"
+    name = "Research"
+    weight = 4
 
-# [[menu.main]]
-	# identifier = "themes"
-    # name = "Themes"
-    # url = "/research/"
-    # parent = "research"
-    # weight = 1
+[[menu.main]]
+	identifier = "themes"
+    name = "Themes"
+    url = "/research/"
+    parent = "research"
+    weight = 1
 
-# [[menu.main]]
-	# identifier = "talks"
-    # name = "Talks"
-    # url = "/research/talks/"
-    # parent = "research"
-    # weight = 2
+[[menu.main]]
+	identifier = "talks"
+    name = "Talks"
+    url = "/research/talks/"
+    parent = "research"
+    weight = 2
 
-# [[menu.main]]
-    # name = "Code"
-    # url = "/Code/"
-    # weight = 5
+
+[[menu.main]]
+    name = "Data"
+    url = "/data/"
+    weight = 5
+
+[[menu.main]]
+    name = "Code"
+    url = "/Code/"
+    weight = 5
 
 [[menu.main]]
     identifier = "publications"
@@ -123,6 +124,12 @@ enableEmoji = true
     url = "/publications/archive"
     parent = "publications"
     weight = 2
+
+[[menu.main]]
+    name = "Join us"
+    url = "/jobs/"
+    weight = 2
+
 
 # [[menu.main]]
     # identifier = "resources"
@@ -149,6 +156,15 @@ enableEmoji = true
     # parent = "news"
     # weight = 2
 
+[[menu.main]]
+    # name = "Contact"
+    # identifier = "contact"
+    # url = "/contact/"
+    # weight = 7
+
+
 [permalinks]
   post = "/:year/:month/:day/:slug/"
   pages = "/:filename/"
+
+
