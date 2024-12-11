@@ -157,10 +157,10 @@ enableEmoji = true
     # weight = 2
 
 [[menu.main]]
-    # name = "Contact"
-    # identifier = "contact"
-    # url = "/contact/"
-    # weight = 8
+    name = "Contact"
+    identifier = "contact"
+    url = "/contact/"
+    weight = 8
 
 
 [permalinks]
