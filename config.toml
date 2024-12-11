@@ -24,10 +24,10 @@ enableEmoji = true
  [params.logo]
   # mobile = '/images/newlogo.png'
   # mobile = '/static/images/newlogo.png'
-  mobile = '/static/InMOSLogoSmall.png'
+  mobile = '/images/InMOSLogoSmall.png'
   # desktop = '/images/newlogo.png'
   # desktop = '/static/images/newlogo.png'
-  desktop = '/static/InMOSLogoSmall.png'
+  desktop = '/images/InMOSLogoSmall.png'
   desktop_height = "48px"
   mobile_height = "24px"
 
@@ -40,7 +40,7 @@ enableEmoji = true
     # meta_og_url = "https://m2lines.github.io/"
     meta_og_url = "https://paopao74cn.github.io/InMOS-m2lines/"
     # meta_og_image = "/static/favicon.png"
-    meta_og_image = "/static/InMOSLogo.png"
+    meta_og_image = "/static/InMOSLogoSmall.png"
     meta_og_description = "VESRI Collaboration on climate modeling"
     meta_twitter_card = "summary"
     # meta_twitter_site = "@M2LInES"
