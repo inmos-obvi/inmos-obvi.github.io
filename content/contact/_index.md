@@ -5,7 +5,7 @@ heroSubHeading: ''
 heroBackground: '/images/SouthAtlantic.A2002157.1055.250m.jpg'
 ---
 
-Write to us (inmos@ucsb.edu) with your questions, comments, and interests.
+Write to us (inmos@eri.ucsb.edu) with your questions, comments, and interests.
 
 <!-- next step: make email as url -->
 
