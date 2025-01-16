@@ -8,7 +8,9 @@ heroBackground: 'images/SouthAtlantic.A2002157.1055.250m.jpg'
 Updated on 12/10/2024 - The links for applications will be updated as they become available.
 
 InMOS affirms the value of differing perspectives in Sciences. To ensure a diverse applicant pool and equitable review for all open positions, we will:
-* solicit internationally through broad networks, including throughout the Global South, (2) augment the recruitment via peer-to-peer contacts (recognizing that diverse recruitment requires more than advertising), (3) establish a shared oversight committee for all hires including at least one outside expert in DEIA.
+* solicit internationally through broad networks, including throughout the Global South,
+* augment the recruitment via peer-to-peer contacts (recognizing that diverse recruitment requires more than advertising),
+* establish a shared oversight committee for all hires including at least one outside expert in DEIA.
 
 <!---
 M²LInES affirms the value of differing perspectives in Sciences. As such, we strongly encourage applications from women, racial and ethnic minorities, and other individuals who are under-represented in the profession, across color, creed, race, ethnic and national origin, physical ability, gender and sexual identity, or any other legally protected basis.
