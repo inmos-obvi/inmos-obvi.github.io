@@ -1,6 +1,6 @@
 ---
 title: 'Jobs'
-heroHeading: 'Open positions'
+heroHeading: 'Open Positions'
 heroSubHeading: ''
 heroBackground: 'images/SouthAtlantic.A2002157.1055.250m.jpg'
 ---
