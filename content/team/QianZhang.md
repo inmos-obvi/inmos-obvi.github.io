@@ -1,8 +1,8 @@
 ---
-title: "Johanna Goldman"
-date: 2018-11-19T10:47:58+10:00
+title: "Qian Zhang"
+date: 2025-01-17T10:47:58+10:00
 draft: false
-image: "images/team/JohannaGoldman.jpg"
+image: "images/team/QianZhang.jpg"
 jobtitle: "Project Manager"
 promoted: true
 weight: 2
