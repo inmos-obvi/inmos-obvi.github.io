@@ -13,5 +13,11 @@
         "name": "Github",
         "link": "https://github.com/paopao74cn/InMOS-m2lines",
         "image": "images/GitHub-Mark-Light-64px.png"
-    }
+    },
+    {
+       "name": "Google Scholar",
+       "link": "https://scholar.google.com/citations?hl=en&authuser=1&user=VZTwG_kAAAAJ",
+       "image": "images/png-clipart-google-scholar-doctor-of-philosophy-university-google-logo-google-logo-university-thumbnail.png"
+   }
+
 ]
