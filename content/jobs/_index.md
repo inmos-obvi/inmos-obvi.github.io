@@ -7,6 +7,8 @@ heroBackground: 'images/SouthAtlantic.A2002157.1055.250m.jpg'
 
 Updated on 01/23/2025 - The links for applications will be updated on a rolling basis.
 
+[Write to us](inmos@geog.ucsb.edu) with your questions, comments, and interests.
+
 <!---
 InMOS affirms the value of differing perspectives in Sciences. To ensure a diverse applicant pool and equitable review for all open positions, we will:
 * solicit internationally through broad networks, including throughout the Global South,
