@@ -5,7 +5,7 @@ heroSubHeading: ''
 heroBackground: '/images/SouthAtlantic.A2002157.1055.250m.jpg'
 ---
 
-[Write to us](inmos@geog.ucsb.edu) with your questions, comments, and interests.
+[Write to us](mailto:inmos@geog.ucsb.edu) with your questions, comments, and interests.
 
 
 
