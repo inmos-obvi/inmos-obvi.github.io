@@ -117,17 +117,19 @@ enableEmoji = true
     # weight = 6
 
 
-[[menu.main]]
-    name = "Latest"
-    url = "/publications/"
-    parent = "publications"
-    weight = 1
+# make Latest Publications section invisible temporarily, will recover when having more contents.
+# [[menu.main]]
+    # name = "Latest"
+    # url = "/publications/"
+    # parent = "publications"
+    # weight = 1
 
-[[menu.main]]
-    name = "Archive"
-    url = "/publications/archive"
-    parent = "publications"
-    weight = 2
+# make Archived Publications section invisible temporarily, will recover when having more contents.
+# [[menu.main]]
+    # name = "Archive"
+    # url = "/publications/archive"
+    # parent = "publications"
+    # weight = 2
 
 [[menu.main]]
     name = "Join us"
