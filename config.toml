@@ -88,29 +88,33 @@ enableEmoji = true
     parent = "research"
     weight = 1
 
-[[menu.main]]
-	identifier = "talks"
-    name = "Talks/Presentations/Recordings"
-    url = "/research/talks/"
-    parent = "research"
-    weight = 2
+# make Talks section invisible temporarily, will recover when having more contents.
+# [[menu.main]]
+	# identifier = "talks"
+    # name = "Talks/Presentations/Recordings"
+    # url = "/research/talks/"
+    # parent = "research"
+    # weight = 2
 
 
-[[menu.main]]
-    name = "Data"
-    url = "/data/"
-    weight = 4
+# make Data section invisible temporarily, will recover when having more contents.
+# [[menu.main]]
+    # name = "Data"
+    # url = "/data/"
+    # weight = 4
 
-[[menu.main]]
-    name = "Code"
-    url = "/Code/"
-    weight = 5
+# make Code section invisible temporarily, will recover when having more contents.
+# [[menu.main]]
+    # name = "Code"
+    # url = "/Code/"
+    # weight = 5
 
-[[menu.main]]
-    identifier = "publications"
-    name = "Publications"
-    url = "/publications/"
-    weight = 6
+# make Publications section invisible temporarily, will recover when having more contents.
+# [[menu.main]]
+    # identifier = "publications"
+    # name = "Publications"
+    # url = "/publications/"
+    # weight = 6
 
 
 [[menu.main]]
