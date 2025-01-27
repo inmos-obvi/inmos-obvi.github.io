@@ -7,7 +7,7 @@ tags:
   - "talks"
 ---
 
-[//]: <> (Your can find most of our past talks, and much more, on our <a class="button button-inline" href="https://www.youtube.com/channel/UCUfOPtnJ3RlT7aOWODNvCmQ">Youtube Channel</a>)
+[Your can find most of our past talks, and much more, on our <a class="button button-inline" href="https://www.youtube.com/channel/UCUfOPtnJ3RlT7aOWODNvCmQ">Youtube Channel</a>]: # 
 
 Themes of the talks:
 * &#128202; Large-scale Modeling
