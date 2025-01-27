@@ -2,6 +2,7 @@
 {{ define "body_classes" }}page-services-list{{ end }}
 {{ define "header_classes" }}{{ end }}
 
+<!--
 {{ define "main" }}
 
 {{ partial "hero-image-setheight.html" (dict "background" .Params.heroBackground "heading" .Params.heroHeading "subheading" .Params.heroSubHeading "content" .)}}
@@ -12,22 +13,26 @@
       <div class="page-intro">
         {{ .Content }}
         <br><br>
+-->
         <!-- show tags -->
-        <!-- <div class="circle-container"> -->
+        <!--
+        <div class="circle-container">
           <div class="center-image">
             <img src="/images/research/WorkPlan_InMOS.png" alt="Center Image" />
           </div>
 
-          <!-- <div class="circle-menu"> -->
+          <div class="circle-menu">
+          -->
             <!-- reorder based on preference by Johanna -->
+            <!--
             {{ $classes := slice "menu-item-4"   "menu-item-9" "menu-item-7" "menu-item-8" "menu-item-2" "menu-item-6" "menu-item-3" "menu-item-1"  "menu-item-5" }}
             {{ $index := 0 }}
             {{ range $key, $value := .Site.Data.tag_links }}
               <a target="_blank" href="{{ $value }}" class="menu-item {{ index $classes $index }}">{{ $key }}</a>
               {{ $index = add $index 1 }}
             {{ end }}
-          <!-- </div> -->
-        <!-- </div>-->
+          </div>
+        </div>
 
       </div>
     </div>
@@ -44,13 +49,11 @@
   </div>
 </div>
 
-<!--
 <div class="container pb-6 pt-6 pb-md-10 pt-md-10">
   <div class="row">
     {{ partial "subscribe.html" }}
      </div>
 </div>
--->
 
 <style>
   .tags-list {
@@ -184,3 +187,4 @@
 
 
 {{ end }}
+-->
