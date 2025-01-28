@@ -1,11 +1,11 @@
 ---
-title: "Eric Morgan"
+title: "Ralph Keeling"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/team/EricMorgan.jpeg"
-jobtitle: "Research Scientist"
+image: "images/team/RalphKeeling.jpeg"
+jobtitle: "PI"
 promoted: true
-Website: https://ejmorgan.scrippsprofiles.ucsd.edu/
+Website: https://rkeeling.scrippsprofiles.ucsd.edu/
 weight: 1
 tags: [Atmospheric Observations]
 ---

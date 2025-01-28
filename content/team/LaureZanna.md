@@ -11,4 +11,4 @@ tags: [Multi-scale Modeling and Machine Learning]
 ---
 
 
-NYU, Courant Institute + Center for Data Science
+New York University (NYU), Courant Institute + Center for Data Science

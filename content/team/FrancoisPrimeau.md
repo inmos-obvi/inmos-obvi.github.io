@@ -11,4 +11,4 @@ tags: [Large-scale Modeling]
 ---
 
 
-UC, Irvine, Department of Earth System Science
+UC Irvine (UCI), Department of Earth System Science

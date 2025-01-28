@@ -11,4 +11,4 @@ tags: [Large-scale Modeling]
 ---
 
 
-UCSB, Earth Research Institute
+UC Santa Barbara (UCSB), Earth Research Institute
