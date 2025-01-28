@@ -1,5 +1,5 @@
 ---
-title: 'Talks'
+title: 'Themes'
 heroHeading: 'Talks/Presentations/Recordings'
 heroSubHeading: ''
 heroBackground: '/images/headway-F2KRf_QfCqw-unsplash.jpeg'
@@ -7,9 +7,9 @@ tags:
   - "talks"
 ---
 
-[Your can find most of our past talks, and much more, on our <a class="button button-inline" href="https://www.youtube.com/channel/UCUfOPtnJ3RlT7aOWODNvCmQ">Youtube Channel</a>]: # 
+[Your can find most of our past talks, and much more, on our <a class="button button-inline" href="https://www.youtube.com/channel/UCUfOPtnJ3RlT7aOWODNvCmQ">Youtube Channel</a>]: #
 
-Themes of the talks:
+Themes of the subgroups:
 * &#128202; Large-scale Modeling
 * &#128187; Multi-scale modeling and Machine Learning (ML)
 * &#127878; Ocean Observations
