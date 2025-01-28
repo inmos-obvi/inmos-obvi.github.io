@@ -9,4 +9,4 @@ heroSubHeading: ''
 heroBackground: ''
 ---
 
-##### roducing novel observational products and modeling tools for integrated constraints on ocean carbon and oxygen cycling.
+##### Producing novel observational products and modeling tools for integrated constraints on ocean carbon and oxygen cycling.
