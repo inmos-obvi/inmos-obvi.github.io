@@ -9,4 +9,4 @@ heroSubHeading: ''
 heroBackground: ''
 ---
 
-##### Improving coupled climate models from leading modeling centers (NCAR, GFDL, and IPSL).
+##### Developing emergent theory and parametrizations linking deoxygenation, CO2 uptake, and heat uptake through ocean circulation and biological processes.
