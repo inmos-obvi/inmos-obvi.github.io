@@ -9,12 +9,12 @@ tags:
 
 [Your can find most of our past talks, and much more, on our <a class="button button-inline" href="https://www.youtube.com/channel/UCUfOPtnJ3RlT7aOWODNvCmQ">Youtube Channel</a>]: #
 
-Themes of the supgroups:
+<!-- Themes of the talks: -->
 * &#127758; Large-scale Modeling
 * &#129302; Multi-scale modeling and Machine Learning (ML)
 * &#128225; Ocean Observations
 * &#127783; Atmospheric Observations
-<!-- 
+<!--
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide/dist/css/splide.min.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide-extension-video/dist/css/splide-extension-video.min.css">
 <script src="https://cdn.jsdelivr.net/npm/@splidejs/splide/dist/js/splide.min.js"></script>
