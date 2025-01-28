@@ -1,5 +1,5 @@
 ---
-title: 'Themes'
+title: 'Talks'
 heroHeading: 'Talks/Presentations/Recordings'
 heroSubHeading: ''
 heroBackground: '/images/headway-F2KRf_QfCqw-unsplash.jpeg'
@@ -9,15 +9,15 @@ tags:
 
 [Your can find most of our past talks, and much more, on our <a class="button button-inline" href="https://www.youtube.com/channel/UCUfOPtnJ3RlT7aOWODNvCmQ">Youtube Channel</a>]: #
 
-Themes of the subgroups:
+Themes of the supgroups:
 * &#128202; Large-scale Modeling
 * &#128187; Multi-scale modeling and Machine Learning (ML)
 * &#127878; Ocean Observations
 * &#127758; Atmospheric Observations
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide/dist/css/splide.min.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide-extension-video/dist/css/splide-extension-video.min.css">
-<script src="https://cdn.jsdelivr.net/npm/@splidejs/splide/dist/js/splide.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/@splidejs/splide-extension-video/dist/js/splide-extension-video.min.js"></script>
+/* <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide/dist/css/splide.min.css"> */
+/* <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide-extension-video/dist/css/splide-extension-video.min.css"> */
+/* <script src="https://cdn.jsdelivr.net/npm/@splidejs/splide/dist/js/splide.min.js"></script> */
+/* <script src="https://cdn.jsdelivr.net/npm/@splidejs/splide-extension-video/dist/js/splide-extension-video.min.js"></script> */
 
 
 <style>
