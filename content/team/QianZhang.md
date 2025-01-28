@@ -7,7 +7,7 @@ jobtitle: "Project Manager"
 promoted: true
 weight: 2
 position: Project Management
-tags: [Ocean Modeling]
+tags: [Large-scale Modeling]
 ---
 
 

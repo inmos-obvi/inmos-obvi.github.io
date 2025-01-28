@@ -7,7 +7,7 @@ jobtitle: "PI"
 promoted: true
 Website: https://ps.uci.edu/node/2165
 weight: 1
-tags: [Ocean Modeling]
+tags: [Large-scale Modeling]
 ---
 
 

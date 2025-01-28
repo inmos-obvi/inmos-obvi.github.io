@@ -11,7 +11,7 @@ tags:
 
 <!-- Themes of the talks: -->
 * &#127758; Large-scale Modeling
-* &#129302; Multi-scale modeling and Machine Learning (ML)
+* &#129302; Multi-scale Modeling and Machine Learning (ML)
 * &#128225; Ocean Observations
 * &#127783; Atmospheric Observations
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide/dist/css/splide.min.css">

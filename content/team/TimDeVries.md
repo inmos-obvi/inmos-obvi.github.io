@@ -7,7 +7,7 @@ jobtitle: "Lead PI"
 promoted: true
 Website: https://www.geog.ucsb.edu/people/faculty/tim-devries
 weight: 1
-tags: [Ocean Modeling]
+tags: [Large-scale Modeling]
 ---
 
 

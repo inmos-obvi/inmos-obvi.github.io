@@ -11,4 +11,4 @@ tags: [Atmospheric Observations]
 ---
 
 
-UC, San Diego, Scripps Institution of Oceanography,
+UC, San Diego, Scripps Institution of Oceanography
