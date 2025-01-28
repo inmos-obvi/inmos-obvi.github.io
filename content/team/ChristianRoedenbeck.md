@@ -2,7 +2,7 @@
 title: "Christian Röedenbeck"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/team/ChristianRoedenbeck.webp"
+image: "images/team/ChristianRoedenbeck.jpeg"
 jobtitle: "PI"
 promoted: true
 Website: https://www.bgc-jena.mpg.de/person/croedenbeck/4777761
