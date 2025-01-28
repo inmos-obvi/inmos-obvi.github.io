@@ -9,4 +9,4 @@ heroSubHeading: ''
 heroBackground: ''
 ---
 
-##### Developing emergent theory and parametrizations linking deoxygenation, CO<sub>2</sub> uptake, and heat uptake through ocean circulation and biological processes.
+##### roducing novel observational products and modeling tools for integrated constraints on ocean carbon and oxygen cycling.

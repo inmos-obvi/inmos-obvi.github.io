@@ -9,4 +9,4 @@ heroSubHeading: ''
 heroBackground: ''
 ---
 
-##### Quantifying the total oceanic CO<sub>2</sub> sink and determining anthropogenic and climate-driven controls.
+##### Quantifying the total oceanic CO<sub>2</sub> sink and determining anthropogenic and climate-driven controls. Assessing trends, drivers, and distribution of ocean deoxygenation.

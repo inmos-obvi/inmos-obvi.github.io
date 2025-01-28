@@ -9,4 +9,4 @@ heroSubHeading: ''
 heroBackground: ''
 ---
 
-##### Assessing trends, drivers, and distribution of ocean deoxygenation.
+##### Developing emergent theory and parametrizations linking deoxygenation, CO<sub>2</sub> uptake, and heat uptake through ocean circulation and biological processes.
