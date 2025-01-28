@@ -14,6 +14,7 @@ Themes of the supgroups:
 * &#129302; Multi-scale modeling and Machine Learning (ML)
 * &#128225; Ocean Observations
 * &#127783; Atmospheric Observations
+<!-- 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide/dist/css/splide.min.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide-extension-video/dist/css/splide-extension-video.min.css">
 <script src="https://cdn.jsdelivr.net/npm/@splidejs/splide/dist/js/splide.min.js"></script>
@@ -608,3 +609,4 @@ p {
     UW Data-driven methods in science and engineering seminar - February 4th &#128187; &#127878;
   </p>
 </div>
+-->
