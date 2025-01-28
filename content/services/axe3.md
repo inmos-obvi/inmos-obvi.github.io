@@ -9,4 +9,4 @@ heroSubHeading: ''
 heroBackground: ''
 ---
 
-##### Developing emergent theory and parametrizations linking deoxygenation, CO2 uptake, and heat uptake through ocean circulation and biological processes.
+##### Developing emergent theory and parametrizations linking deoxygenation, CO<sub>2</sub> uptake, and heat uptake through ocean circulation and biological processes.
