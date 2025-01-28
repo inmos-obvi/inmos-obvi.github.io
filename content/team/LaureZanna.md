@@ -7,7 +7,7 @@ jobtitle: "PI"
 promoted: true
 Website: https://zanna-researchteam.github.io/
 weight: 1
-tags: [Ocean, Multi-scale modeling and Machine Learning]
+tags: [Multi-scale Modeling and Machine Learning]
 ---
 
 
