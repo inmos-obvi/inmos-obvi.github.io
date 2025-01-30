@@ -131,10 +131,10 @@ enableEmoji = true
     # parent = "publications"
     # weight = 2
 
-[[menu.main]]
-    name = "Join us"
-    url = "/jobs/"
-    weight = 7
+# [[menu.main]]
+    # name = "Join us"
+    # url = "/jobs/"
+    # weight = 7
 
 
 # [[menu.main]]
