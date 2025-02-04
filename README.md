@@ -1,11 +1,11 @@
-# m2lines Website Source
+# InMOS Website Source
 
-[![github pages](https://github.com/m2lines/website-source/workflows/github%20pages/badge.svg?branch=master)](https://github.com/m2lines/website-source/actions)
+<!-- [![Github pages](https://github.com/m2lines/website-source/workflows/github%20pages/badge.svg?branch=master)](https://github.com/m2lines/website-source/actions) -->
 
-This repo contains the source code for the m2lines website.
+This repo contains the source code for the InMOS website.
 The site uses the [Hugo](https://gohugo.io/) framework.
 The source files are written in markdown.
-A [GitHub workflow](https://github.com/m2lines/m2lines.github.io/blob/master/.github/workflows/build-and-deploy.yaml) is configured to automatically build and deploy the website to <https://m2lines.github.io/> whenever the `master` branch of this repo is updated.
+A [GitHub workflow](https://github.com/inmos-obvi/inmos-obvi.github.io/blob/master/.github/workflows/build-and-deploy.yaml) is configured to automatically build and deploy the website to <https://inmos-obvi.github.io/> whenever the `master` branch of this repo is updated.
 
 ## Instructions for updating this site
 
@@ -26,7 +26,7 @@ This method only allows you to update one page at a time.
 
 You can also clone this repository, make local changes, and then push them.
 This is better for larger changes that involve multiple files and may need debugging.
-
+<!--
 #### Pre-commit
 We use pre-commit to check file changes before they are pushed. You can download and install `pre-commit` using this [tutorial](https://pre-commit.com)
 
@@ -39,7 +39,7 @@ git add [new or modified files]
 git commit -m '<your commit message>'
 git push origin master
 ```
-
+-->
 If you want to make a large change, it may be best to discuss it first via pull request.
 In that case you would want to create a new branch, push your branch to GitHub, and open a PR.
 The GitHub docs on [creating a pull request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) are a useful reference here.
@@ -53,6 +53,7 @@ hugo new content/<name of your page>.md # create a new page
 hugo server -D # serve the website on http://localhost:1313/.
 ```
 
+<!--
 ### Updating Tags
 Member interests are defined in the form of tags which can link to personalized landing pages.
 Example for adding tag to a member and giving it a custom landing page:
@@ -68,3 +69,4 @@ A: url-1
 B: url-2
 C: url-3
 ```
+-->
