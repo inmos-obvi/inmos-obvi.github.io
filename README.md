@@ -3,7 +3,7 @@
 <!-- [![Github pages](https://github.com/m2lines/website-source/workflows/github%20pages/badge.svg?branch=master)](https://github.com/m2lines/website-source/actions) -->
 
 This repo contains the source code for the InMOS website.
-The site uses the [Hugo](https://gohugo.io/) framework.
+The site is built upon [M²LInES project website](https://m2lines.github.io/) and uses the [Hugo](https://gohugo.io/) framework.
 The source files are written in markdown.
 A [GitHub workflow](https://github.com/inmos-obvi/inmos-obvi.github.io/blob/master/.github/workflows/build-and-deploy.yaml) is configured to automatically build and deploy the website to <https://inmos-obvi.github.io/> whenever the `master` branch of this repo is updated.
 
