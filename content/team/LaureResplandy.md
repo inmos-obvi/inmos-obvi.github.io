@@ -5,7 +5,7 @@ draft: false
 image: "images/team/LaureResplandy.jpeg"
 jobtitle: "PI, Multi-scale Modeling and Machine Learning Team Lead"
 promoted: true
-Website: https://https://geosciences.princeton.edu/people/laure-resplandy
+Website: https://resplandy.princeton.edu/
 weight: 1
 tags: [Multi-scale Modeling and Machine Learning]
 ---
