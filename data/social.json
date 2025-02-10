@@ -5,6 +5,11 @@
         "image": "images/PICOL_icon_Mailw.png"
     },
     {
+        "name": "Bluesky",
+        "link": "https://bsky.app/profile/inmos-obvi.bsky.social",
+        "image": "images/x-twitter-light-grey-logo-5694251.png"
+    },
+    {
         "name": "Twitter",
         "link": "https://x.com/InMOS_OBVI",
         "image": "images/x-twitter-light-grey-logo-5694251.png"
