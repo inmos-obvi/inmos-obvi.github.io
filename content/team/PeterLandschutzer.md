@@ -5,7 +5,7 @@ draft: false
 image: "images/team/Peterlandschutzer.jpg"
 jobtitle: "PI"
 promoted: true
-Website: https://www.vliz.be/en/imis?module=person&persid=41702&printversion=1&dropIMIStitle=1
+Website: https://www.peterlandschutzer.com/
 weight: 1
 tags: [Ocean Observations]
 ---
