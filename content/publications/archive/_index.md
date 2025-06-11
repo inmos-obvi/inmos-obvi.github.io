@@ -6,9 +6,9 @@ heroBackground: 'images/susan-q-yin-2JIvboGLeho-unsplash.jpg'
 ---
 
 <!-- ## M²LInES research publications archive -->
-<img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon"> M²LInES funded research
+<!-- <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon"> M²LInES funded research -->
 
-### 2021 -
+<!--### 2021 -
 
 * <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon"> Guillaumin, A. P., & Zanna, L. **[Stochastic-Deep Learning Parameterization of Ocean Momentum Forcing](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021MS002534)** JAMES 2021
 
@@ -58,3 +58,4 @@ heroBackground: 'images/susan-q-yin-2JIvboGLeho-unsplash.jpg'
 * Rasp S, Pritchard MS, Gentine P. **[Deep learning to represent subgrid processes in climate models.](https://doi.org/10.1073/pnas.1810286115)** _Proc Natl Acad Sci_ 2018.
 
 * Zanna L, Brankart JM, Huber M, Leroux S, Penduff T, Williams PD. **[Uncertainty and scale interactions in ocean ensembles: From seasonal forecasts to multidecadal climate predictions.](https://doi.org/10.1002/qj.3397)** _Q J R Meteorol Soc_ 2018.
+-->
