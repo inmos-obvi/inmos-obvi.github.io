@@ -11,7 +11,6 @@ You can also check all our publications on our **[Google Scholar profile](https:
 
 
 ### 2025
-
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
   </div>
@@ -21,6 +20,10 @@ You can also check all our publications on our **[Google Scholar profile](https:
     <i>Authorea Preprint 2025</i> <strong>DOI</strong>: 10.22541/au.172953926.60473414/v1
   </p>
   </div>
+
+  <div style="display: flex; align-items: center;">
+    <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    </div>
   <p>
     <strong>Renjian Li, Tim Devries, David A Siegel, Francois W. Primeau</strong><br>
     <a href="https://essopenarchive.org/doi/full/10.22541/essoar.174966610.08215013/v1" target="_blank"><strong>Seasonality in Marine Organic Carbon Export and Sequestration Pathways</strong></a><br>
