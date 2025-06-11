@@ -109,12 +109,12 @@ enableEmoji = true
     # url = "/Code/"
     # weight = 5
 
-# make Publications section invisible temporarily, will recover when having more contents.
-# [[menu.main]]
-    # identifier = "publications"
-    # name = "Publications"
-    # url = "/publications/"
-    # weight = 6
+make Publications section invisible temporarily, will recover when having more contents.
+[[menu.main]]
+    identifier = "publications"
+    name = "Publications"
+    url = "/publications/"
+    weight = 4
 
 
 # make Latest Publications section invisible temporarily, will recover when having more contents.
