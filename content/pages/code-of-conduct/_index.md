@@ -100,11 +100,11 @@ _____
 
 	- Authors are responsible for citing references accurately and should be able to attest that the references cited support the associated statement. References should be verified using a bibliographic source or original sources.
 
-	- The criteria are not intended for use as a means to disqualify colleagues from authorship who otherwise meet authorship criteria by denying them the opportunity to meet criterion #s c or d.
+	- The criteria are not intended for use as a means to disqualify colleagues from authorship who otherwise meet authorship criteria by denying them the opportunity to meet criterion #s 2 or 3.
 
 	- **Non-author contributors**: Contributors who meet fewer than all 4 of the above criteria for authorship should not be listed as authors, but they **should be acknowledged**.
 
-	- **The criteria used to determine the order in which authors are listed on the byline may vary, and are to be decided collectively by the author group.**
+	- **The criteria used to determine the order in which authors are listed on the byline may vary**, and are **to be decided collectively by the author group**.
 
 	- **The corresponding author** is the one individual who **takes primary responsibility for communication** with the journal during the manuscript submission, peer-review, and publication process. The corresponding author should be available throughout the submission and peer-review process to respond to editorial queries in a timely way, and **should be available after publication to respond to critiques of the work and cooperate with any requests from the journal for data or additional information** should questions about the paper arise after publication.
 
@@ -128,11 +128,11 @@ _____
 
     		- **Authors should not list AI and AI-assisted technologies** [Chatbots (such as ChatGPT)] **as an author or co-author, nor cite AI as an author**.
 
-				- **Authors should be able to assert that there is no plagiarism in their paper**, including in text and images produced by the AI. Humans must ensure there is appropriate attribution of all quoted material, including full citations.
+				- **Authors should be able to assert that there is no plagiarism in their paper**, including in text and images **produced by the AI**. Humans must ensure there is appropriate attribution of all quoted material, including full citations.
 
-				- **Using AI-generated material as a primary source is not acceptable except when that material has been subject to formal peer review.**
+				- **Using AI-generated material as a primary source** is **not acceptable except when that material has been subject to formal peer review**.
 
-- We will use the [Contributor Role Taxonomy (CRediT)](http://credit.niso.org/) for describing the authorship contributions. Some highlights include:
+- We will use the **[Contributor Role Taxonomy (CRediT)](http://credit.niso.org/)** for describing the authorship contributions. Some highlights include:
 
 	- CRediT is a standardized system that defines 14 distinct roles contributors can play in a research project, allowing for transparent and consistent attribution of contributions to scholarly publications.
 
@@ -142,39 +142,38 @@ _____
 
 		2. Data curation
 
-   	3. Formal analysis
+		3. Formal analysis
 
-   	4. Funding acquisition
+		4. Funding acquisition
 
-   	5. Investigation
+		5. Investigation
 
-   	6. Methodology
+		6. Methodology
 
-  	7. Project administration
+		7. Project administration
 
-  	8. Resources
+		8. Resources
 
-  	9. Software
+		9. Software
 
-  	10.  Supervision
+		10.  Supervision
 
-  	11.  Validation
+		11.  Validation
 
-  	12.  Visualization
+		12.  Visualization
 
-  	13.  Writing – original draft
+		13.  Writing – original draft
 
-  	14.  Writing – review & editing  
+		14.  Writing – review & editing  
 
-- Ideas for manuscripts are often the results of team discussions and/or casual conversations among different members. Authors should strive to keep lines of communication with the rest of the team open at all stages of a manuscript creation, but especially in this early stage, when the same idea might have bubbled simultaneously in different minds. The creation process of manuscripts should then allow sufficient time for co-authors to contribute and review. Participants should strive to contribute and respond in a timely manner.
+- Ideas for manuscripts are often the results of team discussions and/or casual conversations among different members. Authors should strive to keep lines of communication with the rest of the team open at all stages of a manuscript creation, but especially in this early stage, when the same idea might have bubbled simultaneously in different minds. The creation process of manuscripts should then **allow sufficient time for co-authors to contribute and review**. Participants should strive to contribute and respond in a timely manner.
 
 - Consequently, **authorship should be established early in the creation process and established openly by expressing intent to the group**; there are often parallel efforts underway in such an interconnected project and we wish to not deprive anyone of the opportunity to publish their own efforts when it appears to be a duplication or “scooped”.
 
 	- **In an academic publication**, if any aspect of the work was supported by Schmidt Sciences, the authors should acknowledge "Schmidt Sciences". Here are the communications guidelines when referring to the support from Schmidt Sciences:
+		1. **send advance notice by emailing a copy of the manuscript  or pre-print** to your contact at Schmidt Sciences, and
 
- 		- (a) **send advance notice by emailing a copy of the manuscript  or pre-print** to your contact at Schmidt Sciences, and
-
-   	- (b) **use the following language** in the appropriate acknowledgements  section (select one):
+		2. **use the following language** in the appropriate acknowledgements  section (select one):
 
 			- “*This project is supported by Schmidt Sciences, LLC.*”
 
@@ -186,23 +185,26 @@ _____
 
 #### Scientific integrity
 
-- Research should be evidence based and presented **accurately and honestly**, without misleading statements or withholding of pertinent information.
+- Research should be evidence based and presented accurately and honestly, without misleading statements or withholding of pertinent information.
 
 - Research should ultimately be confirmed and verified by peers, i.e. published in **peer-reviewed** journals.
 
 - **Transparency and reproducibility** of the research and publication process are required, not only to aid the peer review process but also as a guiding principle.
 
-- The M²LInES team is committed to disseminate its research as broadly as possible. Whenever possible, all **publications should be submitted open access**, whether via the journal as a whole, or via payment of an open access fee. When not possible, all coauthors should take steps to submit the manuscript in their respective institutions’ internal server for publications, and also a pre-review server such as arXiv. Please note that the Grantor has a nonexclusive license to copy, publish and distribute any publications, studies, research or other copyrightable works funded by this Grant.
+- The InMOS team is committed to disseminate its research as broadly as possible. Whenever possible, all **publications should be submitted open access**, whether via the journal as a whole, or via payment of an open access fee. When not possible, all coauthors should take steps to submit the manuscript in their respective institutions’ internal server for publications, and also a pre-review server such as arXiv. Please note that Schmidt Sciences has a nonexclusive license to copy, publish and distribute any publications, studies, research or other copyrightable works funded by this Grant
 
-- Data used in publications should be made **openly available**, not just upon request. This can be prohibitive for some datasets but reduced forms of the data, as presented in the publication, are a minimum requirement. This is becoming the minimum standard at many society journals.
+- The investigator's intellectual contribution and time committed to collect observations or design and execute numerical experiments entitle them to the primary benefits associated with that dataset. Publication of descriptive or interpretive results derived immediately and directly from the observational or modeling data is the privilege and responsibility of the PIs.  However, to further OBVI collaboration and science objectives, the **PIs are encouraged to share their preliminary data** with colleagues **prior to their public release**.
 
-- **Copyright on codes**: All codes produced within the context of M²LInES should be hosted by the M²LInES GitHub organization. Software produced in collaboration with M²LInES but not solely for M²LInES should be open source and accessible without fee or authentication barriers. It is reasonable to use private repositories during development. The particular license is up to the original authors but i) should ideally be consistent with your host institution, and ii) must be either FAIR or open source. We suggest the MIT license. For other products such as text, images, websites, etc., we suggest the Creative Commons CC-BY license.
+- **Rapid sharing of preliminary data within OBVI: Investigators are expected to make preliminary data, metadata, and results freely available to other participants within 6 months** of data acquisition/processing **for observations and within 6 months after the end of numerical simulations. Investigators should update the [OBVI_Data_List](https://docs.google.com/spreadsheets/d/1QZ-arnBDRjdOjSs2rsvMMknQdwH-w5tBb8jyD4rqd3s/edit?gid=0#gid=0)** (including parameter name, brief description, person of contact, status, availability…) and then the project manager will update it on Basecamp to let the OBVI community know about available data.
 
-- M²LInES scientific impact will rise higher if all its parts are lifted higher. As such, **members are encouraged to amplify each other’s contributions to the project** when opportunities arise (after checking for permissions).
+- **Long-term public sharing: Data** used in publications should be made **openly available**, not just upon request. This can be prohibitive for some datasets but reduced forms of the data, as presented in the publication, are a minimum requirement. This is becoming the minimum standard at many society journals.
+
+- Any person wishing to make use of InMOS or OBVI observational data and model experiments should communicate with the PIs at the start of the analysis. It is anticipated the PIs will be offered co-authorship of any published results, if they wish. In cases where investigators choose not to be co-authors on publications that rely on their data, the Data User has an ethical obligation to cite and appropriately acknowledge the dataset (including the investigator's name and funding source).
+
+- **Copyright on codes: As far as possible, all codes** (including Analytical workflows, software tools, and numerical model codes and configurations, etc.) produced **within the context of InMOS should be made freely available through the public domain**, e.g., hosted by or linked to the [InMOS GitHub](https://github.com/inmos-obvi) if hosted within a personal github repository. **Links** to GitHub, Zenodo or other relevant repositories **should be included as part of the metadata associated with datasets. Software produced in collaboration with InMOS but not solely for InMOS should be open source and accessible** without fee or authentication barriers. It is reasonable to use private repositories during development. The particular license is up to the original authors but i) should ideally be consistent with your host institution, and ii) must be either FAIR or open source. We **suggest the [MIT license](https://opensource.org/license/mit)**. For **other products such as text, images, websites, etc.**, we **suggest the [Creative Commons CC-BY license](https://creativecommons.org/licenses/by/4.0/)**.
 
 #### Conflicts of interest
 
-- Many members of M²LInES are involved in other projects or have collaborators conducting related research. If a research idea being actively pursued by M²LInES happens to overlap with a colleague or collaborator of M²LInES then there can be a conflict of interest, or a perception of such even if none exists.
-**We expect members to recognize or anticipate these situations and to inform M²LInES of any overlap** to avoid problems arising, discussing them with the management committee.
+- Many members of InMOS are involved in other projects or have collaborators conducting related research. If a research idea being actively pursued by InMOS happens to overlap with a colleague or collaborator of InMOS then there can be a conflict of interest, or a perception of such even if none exists. **We expect members to recognize or anticipate these situations and to inform InMOS of any overlap** to avoid problems arising, discussing them with the management committee.
 
-- **Disclosure and regular communication within M²LInES** is by far the best way to avoid misunderstandings and conflicts among the group.
+- **Disclosure and regular communication within InMOS** is by far the best way to avoid misunderstandings and conflicts among the team.
