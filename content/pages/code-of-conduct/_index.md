@@ -85,15 +85,104 @@ _____
 
 #### Authorship
 
-- We will follow the **[Vancouver Group recommendations](http://www.icmje.org/recommendations/)** (VGR) on authorship for all M²LInES publications and products (including software, datasets and presentations). The authorship guidelines apply to both M²LInES members and external collaborators.
+- We will follow the **[Vancouver Group recommendations](http://www.icmje.org/recommendations/)** (VGR) on authorship for all InMOS publications and products (including software, datasets and presentations). The authorship guidelines apply to both InMOS members and external collaborators. Some key recommendations on authorship include:
 
-- We will use the **[CRediT taxonomy](http://credit.niso.org/)** for describing the authorship contributions.
+	- Authors should meet the four following criteria for authorship, and all who meet the four criteria should be identified as authors.
+		1. Substantial contributions to the conception or design of the work; or the acquisition, analysis, or interpretation of data for the work; AND
 
-- Ideas for manuscripts are often the results of group discussions and/or casual conversations among different members. Authors should strive to keep lines of communication with the rest of the team open at all stages of a manuscript creation, but especially in this early stage, when the same idea might have bubbled simultaneously in different minds. The creation process of manuscripts should then **allow sufficient time for co-authors to contribute and review**. Participants should strive to contribute and respond in a timely manner.
+		2. Drafting the work or reviewing it critically for important intellectual content; AND
+
+		3. Final approval of the version to be published; AND
+
+		4. Agreement to be accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity of any part of the work are appropriately investigated and resolved.
+
+	- In addition to being accountable for the parts of the work done, an author should be able to identify which co-authors are responsible for specific other parts of the work.
+
+	- Authors are responsible for citing references accurately and should be able to attest that the references cited support the associated statement. References should be verified using a bibliographic source or original sources.
+
+	- The criteria are not intended for use as a means to disqualify colleagues from authorship who otherwise meet authorship criteria by denying them the opportunity to meet criterion #s c or d.
+
+	- **Non-author contributors**: Contributors who meet fewer than all 4 of the above criteria for authorship should not be listed as authors, but they **should be acknowledged**.
+
+	- **The criteria used to determine the order in which authors are listed on the byline may vary, and are to be decided collectively by the author group.**
+
+	- **The corresponding author** is the one individual who **takes primary responsibility for communication** with the journal during the manuscript submission, peer-review, and publication process. The corresponding author should be available throughout the submission and peer-review process to respond to editorial queries in a timely way, and **should be available after publication to respond to critiques of the work and cooperate with any requests from the journal for data or additional information** should questions about the paper arise after publication.
+
+	- When **a large multi-author group** has conducted the work, **the group ideally should decide who will be an author before the work is started and confirm who is an author before submitting** the manuscript **for publication**.
+
+		- Some large multi-author groups designate authorship by a group name, with or without the names of individuals. **When submitting a manuscript authored by a group, the corresponding author should specify the group name if one exists, and clearly identify the group members who can take credit and responsibility for the work as authors. The byline of the article identifies who is directly responsible for the manuscript.**
+
+	- AI-assisted technology
+
+   		- This is an in-progress effort. The team will keep monitoring policies at institutional, publisher (e.g., journal) and funder level and update this section as needed.
+
+     		- **Humans are responsible** for any submitted material that includes the use of AI-assisted technologies.
+
+				- **Authors who use AI-assisted technology** (such as Large Language Models [LLMs], chatbots, or image creators) **should describe, in both the cover letter and the submitted work** in the appropriate section **if applicable, how they used it**.
+
+				- For example:
+
+					- If AI was used for writing assistance, describe this in the acknowledgment section, such as “AI tool X was used to help in editing the paper for clarity.”
+
+					- If AI was used for data collection, analysis, or figure generation, authors should describe this use in the methods.
+
+    		- **Authors should not list AI and AI-assisted technologies** [Chatbots (such as ChatGPT)] **as an author or co-author, nor cite AI as an author**.
+
+				- **Authors should be able to assert that there is no plagiarism in their paper**, including in text and images produced by the AI. Humans must ensure there is appropriate attribution of all quoted material, including full citations.
+
+				- **Using AI-generated material as a primary source is not acceptable except when that material has been subject to formal peer review.**
+
+- We will use the [Contributor Role Taxonomy (CRediT)](http://credit.niso.org/) for describing the authorship contributions. Some highlights include:
+
+	- CRediT is a standardized system that defines 14 distinct roles contributors can play in a research project, allowing for transparent and consistent attribution of contributions to scholarly publications.
+
+	- CRediT 14 contributor roles:
+
+		1. Conceptualization
+
+		2. Data curation
+
+   	3. Formal analysis
+
+   	4. Funding acquisition
+
+   	5. Investigation
+
+   	6. Methodology
+
+  	7. Project administration
+
+  	8. Resources
+
+  	9. Software
+
+  	10.  Supervision
+
+  	11.  Validation
+
+  	12.  Visualization
+
+  	13.  Writing – original draft
+
+  	14.  Writing – review & editing  
+
+- Ideas for manuscripts are often the results of team discussions and/or casual conversations among different members. Authors should strive to keep lines of communication with the rest of the team open at all stages of a manuscript creation, but especially in this early stage, when the same idea might have bubbled simultaneously in different minds. The creation process of manuscripts should then allow sufficient time for co-authors to contribute and review. Participants should strive to contribute and respond in a timely manner.
 
 - Consequently, **authorship should be established early in the creation process and established openly by expressing intent to the group**; there are often parallel efforts underway in such an interconnected project and we wish to not deprive anyone of the opportunity to publish their own efforts when it appears to be a duplication or “scooped”.
 
-- Appropriate acknowledgement of M²LInES is expected in publications and products. Prior to publications or any external communications, authors need to have written approval from NYU on whether our Grantor would like to be acknowledged. NYU will then ask them. If they do, the Grantor will provide the manner and wording of such acknowledgment. Should a publisher for an academic publication require the identification of the Grantor, you may identify them to the extent required by such publisher, as long as you give NYU at least 15 days advance notice to ask them.
+	- **In an academic publication**, if any aspect of the work was supported by Schmidt Sciences, the authors should acknowledge "Schmidt Sciences". Here are the communications guidelines when referring to the support from Schmidt Sciences:
+
+ 		- (a) **send advance notice by emailing a copy of the manuscript  or pre-print** to your contact at Schmidt Sciences, and
+
+   	- (b) **use the following language** in the appropriate acknowledgements  section (select one):
+
+			- “*This project is supported by Schmidt Sciences, LLC.*”
+
+			- “*This research received support through Schmidt Sciences, LLC.*”
+
+			- “*Support was provided by Schmidt Sciences, LLC.*”
+
+	- **For all other publicity or external communications regarding the grant** (e.g., press releases or other communications with media that are about/explicitly discussing the gift from Sciences i.e., where they are choosing to mention “Schmidt Sciences” in some fashion), please **coordinate with Schmidt Sciences before using the name or logo by emailing** your designated program contact **ten days in advance** for review and comment.
 
 #### Scientific integrity
 
