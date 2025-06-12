@@ -185,7 +185,7 @@ _____
 
 #### Scientific integrity
 
-- Research should be evidence based and presented accurately and honestly, without misleading statements or withholding of pertinent information.
+- Research should be evidence based and presented **accurately and honestly**, without misleading statements or withholding of pertinent information.
 
 - Research should ultimately be confirmed and verified by peers, i.e. published in **peer-reviewed** journals.
 
@@ -202,6 +202,8 @@ _____
 - Any person wishing to make use of InMOS or OBVI observational data and model experiments should communicate with the PIs at the start of the analysis. It is anticipated the PIs will be offered co-authorship of any published results, if they wish. In cases where investigators choose not to be co-authors on publications that rely on their data, the Data User has an ethical obligation to cite and appropriately acknowledge the dataset (including the investigator's name and funding source).
 
 - **Copyright on codes: As far as possible, all codes** (including Analytical workflows, software tools, and numerical model codes and configurations, etc.) produced **within the context of InMOS should be made freely available through the public domain**, e.g., hosted by or linked to the [InMOS GitHub](https://github.com/inmos-obvi) if hosted within a personal github repository. **Links** to GitHub, Zenodo or other relevant repositories **should be included as part of the metadata associated with datasets. Software produced in collaboration with InMOS but not solely for InMOS should be open source and accessible** without fee or authentication barriers. It is reasonable to use private repositories during development. The particular license is up to the original authors but i) should ideally be consistent with your host institution, and ii) must be either FAIR or open source. We **suggest the [MIT license](https://opensource.org/license/mit)**. For **other products such as text, images, websites, etc.**, we **suggest the [Creative Commons CC-BY license](https://creativecommons.org/licenses/by/4.0/)**.
+
+- InMOS scientific impact will rise higher if all its parts are lifted higher. As such, **members are encouraged to maximize each other’s contributions to the project** when opportunities arise (after checking for permissions).
 
 #### Conflicts of interest
 
