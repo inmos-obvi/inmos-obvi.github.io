@@ -8,34 +8,36 @@ heroBackground: 'images/photo-1597200381847-30ec200eeb9a.jpeg'
 _____
 
 #### Purpose of document
-- A code of conduct is a statement of understanding among ourselves about expectations of behavior and values, and as an external statement, reflects our commitments to the community.
+- A code of conduct (CoC) is a statement of understanding among ourselves about expectations of behavior and values, and as an external statement, reflects our commitments to the community.
 
-- This code of conduct applies to all members of M²LInES without exception. We also expect external collaborators to comply with this code when interacting with M²LInES, and we extend guidelines (such as inclusion for authorship) to external collaborators.
+- This CoC applies to all members of the InMOS project. We also expect external collaborators to comply with this code when interacting with InMOS, and we extend guidelines (such as inclusion for authorship) to external collaborators.
 
-- Key aspects of this document: Inclusivity, professionalism and conduct, unethical and/or unacceptable behavior, authorship, scientific integrity, and conflicts of interest.
+- Key aspects of this document: Inclusivity, professionalism and conduct, team meetings, unacceptable behavior, authorship, scientific integrity, and conflict of interest.
 
-- Management committee (Laure, Johanna, Alistair, Carlos, Ryan) will deal with any issues arising:
+- Management committee (or MC, Tim, Qian, Laure Z, Ralph) will deal with any issues arising.
+
+- This CoC serves as a living document and will be updated as needed.
 
 
 #### Inclusivity
 
-- Enjoyable, high-quality research can only be conducted when you **feel safe, secure, and supported**. All group members are thus dedicated to a **harassment-free experience for everyone, regardless of gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, and/or religion [^1] (or lack thereof), family status or socio-economic status**. The group members also recognize that some of those biases can be unconscious and creep into different aspects of Academic life and research, such as meetings, publications, citations, hiring, etc. Members should strive to consciously combat those biases and bring awareness to others.
+- Enjoyable, high-quality research can only be conducted when we feel safe, secure, and supported. All group members are thus dedicated to a harassment-free experience for everyone, regardless of our personal characteristics and differences. The team recognizes that biases can be unconscious and creep into different aspects of academic life and research, such as meetings, publications, citations, hiring, etc. We will strive to consciously combat those biases and bring awareness to others.
 
-- **Obligations to the M²LInES group**: We're on the same team. Help each other, especially those junior to you even if not directly working for you.
+- **Obligations to the InMOS project team**: We're on the same team. Help each other, especially those junior to you even if not directly working for you.
 
 - Be aware of, and address your positionality, power, privileges, and values.
 
-- Early career researchers (ECRs) face additional challenges, having to navigate their career path in addition to performing their work. This additional uncertainty in their career can lead to added stress and possible burnout. If anything is placing undue stress or preventing ECRs from performing at their potential, they are encouraged to discuss with their group lead or with any other mentors they feel most comfortable. Sharing these issues can reduce stress and help others be accommodating towards their needs, and the team may be able to assist.
+- Early career researchers (ECRs, or junior scientists) face additional challenges, having to navigate their career path in addition to performing their work. This additional uncertainty in their career can lead to added stress and possible burnout. If anything is placing overwhelming stress or preventing ECRs from performing at their potential, they are encouraged to discuss with their group lead or with any other mentors they feel most comfortable with. Sharing these issues can reduce stress and help others be accommodating towards their needs, and the team may be able to assist.
 
-- The M²LInES team follows the principle that the whole is greater than the sum of its parts. As such all members are encouraged to communicate openly and frequently about their research, activities and the obstacles they might encounter along the way.
+- The InMOS team follows the principle that the whole is greater than the sum of its parts. As such all members are encouraged to communicate openly and frequently about their research, activities and the obstacles they might encounter along the way.
 
 #### Professionalism and conduct
 
-- Be **respectful in all interactions**, communications, and actions.
+- Be respectful in all interactions, communications, and actions.
 
-- Take care of your **choice of medium for communicating sensitive matters**.
+- Take care of your **choice of medium for communicating sensitive matters** (e.g., confidentiality, privacy, and the ethical handling of information and resources at the personal, institutional and national level).
 
-- English is the official language during meetings, group interactions and communications.
+- English is the official language during meetings, team interactions and communications.
 
 - Make a point in learning people’s names and how to pronounce them correctly.
 
@@ -45,34 +47,31 @@ _____
 
 	+ Be mindful of dominant personalities, including yourself.
 
-	+ Employ appropriate language inclusive of all backgrounds.
+	+ Employ appropriate and inclusive language.
 
-	+ Follow appropriate etiquette:
-		* In virtual meetings, raise hands in your video stream or use the software equivalent.
-		* Wait for the chair or moderator to give you permission to speak.
-		* Help the chair when they are unaware of an issue.
+	+ Follow appropriate etiquette, such as raising your hand (or virtual equivalent) , waiting for the chair or facilitator/moderator to give you permission to speak, and help the chair when they are unaware of an issue.
 
-	- Avoid side conversations. Multiple conversations in a room are distracting, and show disrespect to others. This applies to chat windows while video conferencing too - consider whether typing a comment is serving the speaker and audience.
+	+ Meetings should be structured. For meetings with multiple participants, an agenda, a chair (lead PI who is responsible for leading all discussions by following the agenda and staying on schedule), and a facilitator/moderator (the project manager) are recommended. For business meetings, or meetings that need a strategic report for management, the project manager will be appointed as the note taker.
 
-	- Meetings should be structured. For meetings with multiple participants, an agenda, a chair (responsible for following the agenda and staying on schedule), and a moderator (the discussion leader) are recommended. For business meetings, or meetings that need a strategic report for management, the project manager will be appointed as the note taker.
+- Respect other’s working hours and limited availability or response time due to family, personal, and other situations.
 
-- Respect other’s **working hours and limited availability** or response time due to family, personal, and other situations. While we are used to instant messaging systems (e.g. slack) reaching into each other's offices and homes, it is not appropriate to assume the recipient is not otherwise engaged.
+- Avoid misunderstandings and exclusion. Open communication of intent and understanding are key to avoiding misunderstandings and inadvertent exclusion.
 
-- **Avoid misunderstandings and exclusion**. Open communication of intent and understanding are key to avoiding misunderstandings and inadvertent exclusion.
+- Response time and deadlines: Timely communication and meeting deadlines are essential for our collective success and professional integrity. Team members are expected to adhere to all deadlines. This includes submitting the scientific report by the specified deadline (a contractual obligation), as well as any other requests by our funders (made directly or via Management Committee). Everyone is expected to address correspondence in a reasonable time. This includes correspondence from the MC, which often relates to contractual issues, and therefore cannot be delayed.
 
 #### Team meetings
 
 - The team has limited occasions to meet and interact with each other, so it is particularly important to make these opportunities as effective as possible for everyone.
 
-- The moderator should send the agenda with **enough notice for people to review it** and add on items, if need be.
+- The facilitator/moderator should send the meeting invite associated with the agenda with enough notice for people to review it and add on items, if need be.
 
 - Similarly, if items on the agenda need advanced review time, they should be sent with enough notice for everyone to get a chance to review them and comment on them before the meeting.
 
-- The project manager is the chair and note taker during meetings with the whole team. During subgroup meetings, a chair and note taker should be designated, if need be.
+- The project manager is the facilitator/moderator and note taker during meetings with the whole team. During subgroup meetings, a chair and note taker should be designated, if need be.
 
 - During the meeting:
 	- **Be present**. Listen to others and avoid multitasking.
-	- Questions are best asked verbally, not in a written form. Raise your hand (or software equivalent), and wait for the chair or moderator to give you permission to speak.
+	- Questions are best asked verbally, not in a written form. Raise your hand (or software equivalent), and wait for the chair or facilitator/moderator to give you permission to speak.
 	- **Avoid side conversations**. This applies to conversations in the chat window while videoconferencing.
 	- Additional points/comments that one prefers not to raise verbally during the meeting and side conversations on a specific topic are best reserved for our Slack channel **after the meeting is over**.
 
@@ -82,10 +81,7 @@ _____
 
 - If you are the subject of, or witness to, inappropriate behavior please **inform a member of the management committee**, or ask another member whom you trust to inform the committee.
 
-- Watch out for [microaggressions](https://en.wikipedia.org/wiki/Microaggression). _Be aware that your actions can be hurtful to others or contribute to a negative environment even if you had no intent of harm_. Listen. Offer a genuine apology. Commit to learning and doing better. [^2]
-
-- Sanctions or consequences
-	- The management committee takes inappropriate behavior seriously and **persistent violations of the code** may result in being ejected from the group, loss of funding, and/or notifying the employing institution.
+- Watch out for inadvertent slights or language that might unintentionally be hurtful to others.
 
 #### Authorship
 
@@ -121,8 +117,3 @@ _____
 **We expect members to recognize or anticipate these situations and to inform M²LInES of any overlap** to avoid problems arising, discussing them with the management committee.
 
 - **Disclosure and regular communication within M²LInES** is by far the best way to avoid misunderstandings and conflicts among the group.
-
-
-[^1]: Copied verbatim from Chris Jackson’s BRG [Code of Conduct](https://wwwf.imperial.ac.uk/blog/assistant-provost-edi/2018/05/21/pirate-the-code-of-conduct/).
-
-[^2]: Taken verbatim from Bahlai Lab [Code of conduct](https://github.com/BahlaiLab/Policies/blob/master/Code_of_conduct.md)
