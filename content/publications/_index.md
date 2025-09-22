@@ -47,7 +47,7 @@ You can also check all our publications on our **[Google Scholar profile](https:
     <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
     </div>
   <p>
-    <strong>Renjian Li, Tim Devries, David A Siegel, Francois W. Primeau</strong><br>
+    <strong>Renjian Li, Tim DeVries, David A Siegel, Francois W. Primeau</strong><br>
     <a href="https://essopenarchive.org/doi/full/10.22541/essoar.174966610.08215013/v1" target="_blank"><strong>Seasonality in Marine Organic Carbon Export and Sequestration Pathways</strong></a><br>
     <i>Essoar Preprint 2025</i> <strong>DOI</strong>: 10.22541/essoar.174966610.08215013/v1
   </p>
@@ -58,7 +58,7 @@ You can also check all our publications on our **[Google Scholar profile](https:
     </div>
   <p>
     <strong>Pierre Friedlingstein, Corinne Le Quéré , Michael O'Sullivan , Judith Hauck , Peter Landschützer , Ingrid Luijkx , Hongmei Li , Auke van der Woude , Clemens Schwingshackl , Julia Pongratz , Pierre Regnier , Robbie Andrew , Dorothee Bakker , Josep Canadell , Philippe Ciais , Thomas Gasser , Matthew Jones , Xin Lan , Eric Morgan , Are Olsen , Glen Peters , Wouter Peters , Stephen Sitch , Hanqin Tian</strong><br>
-    <a href="https://www.nature.com/nature/articles?year=2025" target="_blank"><strong>Trends in sources and sinks of carbon dioxide over the past 65 years</strong></a><br>
+    <strong>Trends in sources and sinks of carbon dioxide over the past 65 years</strong></a><br>
     <i>Nature 2025</i>
-</p>
-</div>
+  </p>
+  </div>
