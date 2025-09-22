@@ -31,15 +31,17 @@ You can also check all our publications on our **[Google Scholar profile](https:
     </p>
     </div>
 
-    <div style="display: flex; align-items: center;">
-      <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
-      </div>
-      <p>
-        <strong>Seth M Bushinsky, Zachary Nachod, Andrea J Fassbender, Veronica Tamsitt, Yuichiro Takeshita, Nancy Williams</strong><br>
-        <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024GB008185" target="_blank"><strong>Offset Between Profiling Float and Shipboard Oxygen Observations at Depth Imparts Bias on Float pH and Derived pCO<sub>2</sub></strong></a><br>
-        <i>Global Biogeochemical Cycles, 39(5)</i> <strong>DOI</strong>: 10.1029/2024GB008185
-      </p>
-      </div>
+
+  <div style="display: flex; align-items: center;">
+    <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    </div>
+    <p>
+      <strong>Seth M Bushinsky, Zachary Nachod, Andrea J Fassbender, Veronica Tamsitt, Yuichiro Takeshita, Nancy Williams</strong><br>
+      <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024GB008185" target="_blank"><strong>Offset Between Profiling Float and Shipboard Oxygen Observations at Depth Imparts Bias on Float pH and Derived pCO<sub>2</sub></strong></a><br>
+      <i>Global Biogeochemical Cycles, 39(5)</i> <strong>DOI</strong>: 10.1029/2024GB008185
+    </p>
+    </div>
+
 
   <div style="display: flex; align-items: center;">
     <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
@@ -50,3 +52,15 @@ You can also check all our publications on our **[Google Scholar profile](https:
     <i>Essoar Preprint 2025</i> <strong>DOI</strong>: 10.22541/essoar.174966610.08215013/v1
   </p>
   </div>
+
+
+  <div style="display: flex; align-items: center;">
+    <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    </div>
+  <p>
+    <strong>Pierre Friedlingstein, Corinne Le Quéré , Michael O'Sullivan , Judith Hauck , Peter Landschützer , Ingrid Luijkx , Hongmei Li , Auke van der Woude , Clemens Schwingshackl , Julia Pongratz , Pierre Regnier , Robbie Andrew , Dorothee Bakker , Josep Canadell , Philippe Ciais , Thomas Gasser , Matthew Jones , Xin Lan , Eric Morgan , Are Olsen , Glen Peters , Wouter Peters , Stephen Sitch , Hanqin Tian</strong><br>
+    target="_blank"><strong>Seasonality in Marine Organic Carbon Export and Sequestration Pathways</strong><br>
+    <i>Nature 2025</i>
+  </p>
+  </div>
+  
