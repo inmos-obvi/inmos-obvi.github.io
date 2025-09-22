@@ -2,7 +2,7 @@
 title: "Julie Sherman"
 date: 2025-01-17T10:47:58+10:00
 draft: false
-image: "images/team/sherman_photo.JPG"
+image: "images/team/JulieSherman.jpeg"
 jobtitle: "Postdoctoral Scholar"
 promoted: true
 weight: 2
