@@ -59,8 +59,7 @@ You can also check all our publications on our **[Google Scholar profile](https:
     </div>
   <p>
     <strong>Pierre Friedlingstein, Corinne Le Quéré , Michael O'Sullivan , Judith Hauck , Peter Landschützer , Ingrid Luijkx , Hongmei Li , Auke van der Woude , Clemens Schwingshackl , Julia Pongratz , Pierre Regnier , Robbie Andrew , Dorothee Bakker , Josep Canadell , Philippe Ciais , Thomas Gasser , Matthew Jones , Xin Lan , Eric Morgan , Are Olsen , Glen Peters , Wouter Peters , Stephen Sitch , Hanqin Tian</strong><br>
-    target="_blank"><strong>Seasonality in Marine Organic Carbon Export and Sequestration Pathways</strong><br>
+    <strong>Seasonality in Marine Organic Carbon Export and Sequestration Pathways</strong><br>
     <i>Nature 2025</i>
   </p>
   </div>
-  
