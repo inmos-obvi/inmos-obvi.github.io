@@ -17,7 +17,7 @@ You can also check all our publications on our **[Google Scholar profile](https:
   <p>
     <strong>Paridhi Rustogi, Laure Resplandy, Enhui Liao, Brandon G Reichl, Luc Deike</strong><br>
     <a href="https://www.authorea.com/users/839578/articles/1230159-influence-of-wave-induced-variability-on-ocean-carbon-uptake" target="_blank"><strong>Influence of wave-induced variability on ocean carbon uptake</strong></a><br>
-    <i>Global Biogeochemical Cycles</i> <strong>DOI</strong>: 10.1029/2024GB008382
+    <i>Global Biogeochemical Cycles, 2025</i> <strong>DOI</strong>: 10.1029/2024GB008382
   </p>
   </div>
 
@@ -27,7 +27,7 @@ You can also check all our publications on our **[Google Scholar profile](https:
     <p>
       <strong>Luc Deike, Xiaohui Zhou, Paridhi Rustogi, Rachel HR Stanley, Brandon G Reichl, Seth M Bushinsky, Laure Resplandy</strong><br>
       <a href="https://www.pnas.org/doi/full/10.1073/pnas.2419319122" target="_blank"><strong>A universal wind–wave–bubble formulation for air–sea gas exchange and its impact on oxygen fluxes</strong></a><br>
-      <i>Proceedings of the National Academy of Sciences</i> <strong>DOI</strong>: 10.1073/pnas.2419319122
+      <i>Proceedings of the National Academy of Sciences, 2025</i> <strong>DOI</strong>: 10.1073/pnas.2419319122
     </p>
     </div>
 
@@ -38,7 +38,7 @@ You can also check all our publications on our **[Google Scholar profile](https:
     <p>
       <strong>Seth M Bushinsky, Zachary Nachod, Andrea J Fassbender, Veronica Tamsitt, Yuichiro Takeshita, Nancy Williams</strong><br>
       <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024GB008185" target="_blank"><strong>Offset Between Profiling Float and Shipboard Oxygen Observations at Depth Imparts Bias on Float pH and Derived pCO<sub>2</sub></strong></a><br>
-      <i>Global Biogeochemical Cycles, 39(5)</i> <strong>DOI</strong>: 10.1029/2024GB008185
+      <i>Global Biogeochemical Cycles, 2025, 39(5)</i> <strong>DOI</strong>: 10.1029/2024GB008185
     </p>
     </div>
 
@@ -59,7 +59,7 @@ You can also check all our publications on our **[Google Scholar profile](https:
     </div>
   <p>
     <strong>Pierre Friedlingstein, Corinne Le Quéré , Michael O'Sullivan , Judith Hauck , Peter Landschützer , Ingrid Luijkx , Hongmei Li , Auke van der Woude , Clemens Schwingshackl , Julia Pongratz , Pierre Regnier , Robbie Andrew , Dorothee Bakker , Josep Canadell , Philippe Ciais , Thomas Gasser , Matthew Jones , Xin Lan , Eric Morgan , Are Olsen , Glen Peters , Wouter Peters , Stephen Sitch , Hanqin Tian</strong><br>
-    <strong>Seasonality in Marine Organic Carbon Export and Sequestration Pathways</strong><br>
+    <a href="https://www.nature.com/nature/articles?year=2025" target="_blank"><strong>Trends in sources and sinks of carbon dioxide over the past 65 years</strong><br>
     <i>Nature 2025</i>
   </p>
   </div>
