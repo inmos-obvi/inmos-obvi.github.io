@@ -46,31 +46,31 @@ You can also check all our publications on our **[Google Scholar profile](https:
   <div style="display: flex; align-items: center;">
     <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
     </div>
-    <p>
-      <strong>Renjian Li, Tim DeVries, David A Siegel, Francois W. Primeau</strong><br>
-      <a href="https://essopenarchive.org/doi/full/10.22541/essoar.174966610.08215013/v1" target="_blank"><strong>Seasonality in Marine Organic Carbon Export and Sequestration Pathways</strong></a><br>
-      <i>Essoar Preprint 2025</i> <strong>DOI</strong>: 10.22541/essoar.174966610.08215013/v1
-    </p>
-    </div>
+  <p>
+    <strong>Renjian Li, Tim DeVries, David A Siegel, Francois W. Primeau</strong><br>
+    <a href="https://essopenarchive.org/doi/full/10.22541/essoar.174966610.08215013/v1" target="_blank"><strong>Seasonality in Marine Organic Carbon Export and Sequestration Pathways</strong></a><br>
+    <i>Essoar Preprint 2025</i> <strong>DOI</strong>: 10.22541/essoar.174966610.08215013/v1
+  </p>
+  </div>
 
 
   <div style="display: flex; align-items: center;">
     <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
     </div>
-    <p>
-      <strong>Pierre Friedlingstein, Corinne Le Quéré, Michael O'Sullivan, Judith Hauck, Peter Landschützer, Ingrid Luijkx, Hongmei Li, Auke van der Woude, Clemens Schwingshackl, Julia Pongratz, Pierre Regnier, Robbie Andrew, Dorothee Bakker, Josep Canadell, Philippe Ciais, Thomas Gasser, Matthew Jones, Xin Lan, Eric Morgan, Are Olsen, Glen Peters, Wouter Peters, Stephen Sitch, Hanqin Tian</strong><br>
-      Emerging climate impact on carbon sinks in a consolidated carbon budget<br>
-      <i>Nature (2025) </i> in review
-    </p>
-    </div>
+  <p>
+    <strong>Pierre Friedlingstein, Corinne Le Quéré, Michael O'Sullivan, Judith Hauck, Peter Landschützer, Ingrid Luijkx, Hongmei Li, Auke van der Woude, Clemens Schwingshackl, Julia Pongratz, Pierre Regnier, Robbie Andrew, Dorothee Bakker, Josep Canadell, Philippe Ciais, Thomas Gasser, Matthew Jones, Xin Lan, Eric Morgan, Are Olsen, Glen Peters, Wouter Peters, Stephen Sitch, Hanqin Tian</strong><br>
+    Emerging climate impact on carbon sinks in a consolidated carbon budget<br>
+    <i>Nature (2025) </i> in review
+  </p>
+  </div>
 
 
   <div style="display: flex; align-items: center;">
     <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
     </div>
-    <p>
-      <strong>Tournebise, N., DeVries, T., Graven, H., & Yamamoto, K.</strong><br>
-      Testing Assumptions in the Modeling of Radiocarbon in Ocean Biogeochemical Models<br>
-      <i>Manuscript submitted to Journal of Advances in Modeling Earth Systems (2025) </i> in review
+  <p>
+    <strong>Tournebise, N., DeVries, T., Graven, H., & Yamamoto, K.</strong><br>
+    Testing Assumptions in the Modeling of Radiocarbon in Ocean Biogeochemical Models<br>
+    <i>Manuscript submitted to Journal of Advances in Modeling Earth Systems (2025) </i> in review
   </p>
   </div>
