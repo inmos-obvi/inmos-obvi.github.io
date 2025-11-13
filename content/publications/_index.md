@@ -63,3 +63,14 @@ You can also check all our publications on our **[Google Scholar profile](https:
     <i>Nature (2025) </i> in review
   </p>
   </div>
+
+
+  <div style="display: flex; align-items: center;">
+    <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    </div>
+  <p>
+    Tournebise, N., DeVries, T., Graven, H., & Yamamoto, K.<br>
+    <strong>Testing Assumptions in the Modeling of Radiocarbon in Ocean Biogeochemical Models</strong><br>
+    <i>Manuscript submitted to Journal of Advances in Modeling Earth Systems (2025) </i> in review
+  </p>
+  </div>
