@@ -74,4 +74,3 @@ You can also check all our publications on our **[Google Scholar profile](https:
     <i>Manuscript submitted to Journal of Advances in Modeling Earth Systems (2025) </i> in review
   </p>
   </div>
-  
