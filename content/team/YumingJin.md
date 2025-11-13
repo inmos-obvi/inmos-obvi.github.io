@@ -2,7 +2,7 @@
 title: "Yuming Jin (Upcoming)"
 date: 2025-01-17T10:47:58+10:00
 draft: false
-image: "images/team/YumingJin.jpg"
+image: "images/team/YumingJin.jpeg"
 jobtitle: "Postdoctoral Scholar"
 promoted: true
 Website:
