@@ -74,3 +74,16 @@ You can also check all our publications on our **[Google Scholar profile](https:
     <i>Essoar Preprint 2025</i> <strong>DOI</strong>: 10.22541/essoar.174966610.08215013/v1
   </p>
   </div>
+
+
+  <div style="display: flex; align-items: center;">
+    <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    </div>
+  <p>
+    <strong>P. Rustogi, L. Resplandy, S. Bushinsky and L. Deike</strong><br>
+    The influence of waves and bubbles on oxygen in the ocean interior<br>
+    <i>GOOD-OARS Summer School, Malaysia, 2025</i>
+  </p>
+  </div>
+
+  
