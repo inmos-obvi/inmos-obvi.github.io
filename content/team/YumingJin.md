@@ -1,5 +1,5 @@
 ---
-title: "Yuming Jin (Upcoming)"
+title: "Yuming Jin"
 date: 2025-01-17T10:47:58+10:00
 draft: false
 image: "images/team/YumingJin.jpeg"

@@ -1,11 +1,11 @@
 ---
-title: "Kim Faassen"
+title: "Yunhao Li"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/team/KimFaassen.jpeg"
-jobtitle: "Postdoctoral Researcher"
+image: "images/team/YunhaoLi.jpeg"
+jobtitle: "Graduate Student"
 promoted: true
-Website: https://research.wur.nl/en/persons/kim-faassen
+Website: 
 weight: 1
 tags: [Atmospheric Observations]
 ---
