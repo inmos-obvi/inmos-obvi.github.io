@@ -50,8 +50,8 @@ You can also check all our publications on our **[Google Scholar profile](https:
       <strong>Renjian Li, Tim DeVries, David A Siegel, Francois W. Primeau</strong><br>
       <a href="https://essopenarchive.org/doi/full/10.22541/essoar.174966610.08215013/v1" target="_blank"><strong>Seasonality in Marine Organic Carbon Export and Sequestration Pathways</strong></a><br>
       <i>Essoar Preprint 2025</i> <strong>DOI</strong>: 10.22541/essoar.174966610.08215013/v1
-      </p>
-      </div>
+    </p>
+    </div>
 
 
   <div style="display: flex; align-items: center;">
@@ -72,8 +72,8 @@ You can also check all our publications on our **[Google Scholar profile](https:
       <strong>Tournebise, N., DeVries, T., Graven, H., & Yamamoto, K.</strong><br>
       <a href="https://doi.org/10.22541/essoar.176314998.86676402/v1" target="_blank"><strong>Testing Assumptions in the Modeling of Radiocarbon in Ocean Biogeochemical Models</strong></a><br>
       <i>Essoar Preprint 2025</i> <strong>DOI</strong>: 10.22541/essoar.176314998.86676402/v1
-      </p>
-      </div>
+    </p>
+    </div>
 
 
   <div style="display: flex; align-items: center;">
