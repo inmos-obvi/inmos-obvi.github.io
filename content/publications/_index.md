@@ -51,7 +51,7 @@ You can also check all our publications on our **[Google Scholar profile](https:
       <a href="https://essopenarchive.org/doi/full/10.22541/essoar.174966610.08215013/v1" target="_blank"><strong>Seasonality in Marine Organic Carbon Export and Sequestration Pathways</strong></a><br>
       <i>Essoar Preprint 2025</i> <strong>DOI</strong>: 10.22541/essoar.174966610.08215013/v1
     </p>
-    </div>
+  </div>
 
 
   <div style="display: flex; align-items: center;">
@@ -62,7 +62,7 @@ You can also check all our publications on our **[Google Scholar profile](https:
       Emerging climate impact on carbon sinks in a consolidated carbon budget</strong><br>
       <i>Nature Preprint 2025</i>
     </p>
-    </div>
+  </div>
 
 
   <div style="display: flex; align-items: center;">
@@ -73,7 +73,7 @@ You can also check all our publications on our **[Google Scholar profile](https:
       <a href="https://doi.org/10.22541/essoar.176314998.86676402/v1" target="_blank"><strong>Testing Assumptions in the Modeling of Radiocarbon in Ocean Biogeochemical Models</strong></a><br>
       <i>Essoar Preprint 2025</i> <strong>DOI</strong>: 10.22541/essoar.176314998.86676402/v1
     </p>
-    </div>
+  </div>
 
 
   <div style="display: flex; align-items: center;">
@@ -84,4 +84,4 @@ You can also check all our publications on our **[Google Scholar profile](https:
       The influence of waves and bubbles on oxygen in the ocean interior<br>
       <i>GOOD-OARS Summer School, Malaysia, 2025</i>
     </p>
-    </div>
+  </div>
