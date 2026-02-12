@@ -49,7 +49,7 @@ You can also check all our publications on our **[Google Scholar profile](https:
     <p>
       <strong>Renjian Li, Tim DeVries, David A Siegel, Francois W. Primeau</strong><br>
       <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2025GB008603" target="_blank"><strong>Seasonality in Marine Organic Carbon Export and Sequestration Pathways</strong></a><br>
-      <i>Global Biogeochemical Cycles 2026</i> <strong>DOI</strong>: 10.1029/2025GB008603
+      <i>Global Biogeochemical Cycles, 2026</i> <strong>DOI</strong>: 10.1029/2025GB008603
     </p>
   </div>
 
