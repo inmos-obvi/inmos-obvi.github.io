@@ -1,6 +1,6 @@
 ---
 title: 'News'
 heroHeading: 'News'
-heroSubHeading: 'News from InMOS'
+heroSubHeading: 'InMOS in the news and news from InMOS'
 heroBackground: 'images/photo-newspapers-unsplash.jpeg'
 ---

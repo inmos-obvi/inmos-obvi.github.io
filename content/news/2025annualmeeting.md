@@ -9,6 +9,4 @@ images: ['images/news/2025-inmos-annual-meetingLarge.jpeg']
 link: 'https://drive.google.com/drive/u/0/folders/162OV5XK3a8EKEQn4OvrzaRJutQ7CiWSJ'
 ---
 
-The InMOS team gathered for its first annual meeting, bringing together project members to share progress, exchange ideas, and plan the next phase of collaboration across models and observations.
-
-More photos from the meeting are available in the [shared photo folder](https://drive.google.com/drive/u/0/folders/162OV5XK3a8EKEQn4OvrzaRJutQ7CiWSJ).
+The InMOS team gathered for its first annual meeting at UCSB, bringing together project team members to share progress, exchange ideas, and plan the next phase of collaboration across models and observations.
