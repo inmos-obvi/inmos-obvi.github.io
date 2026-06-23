@@ -65,6 +65,47 @@
 </div>
 {{end}}
 
+{{ $news := where .Site.RegularPages "Type" "news" }}
+{{ if gt (len $news) 0 }}
+<div id="news" class="bg-light bg-cover bg-position-top bg-overlay" style='background-image: url("{{ .Params.background | relURL }}");'>
+  <div class="container pt-8 pb-8 pb-md-12 pt-md-12">
+    <div class="row justify-content-center">
+      <div class="col-12 col-md-8 text-center mb-3">
+        <h2>News</h2>
+        <p>Latest updates from InMOS.</p>
+      </div>
+    </div>
+    <div class="row">
+      {{ range first 3 ($news.ByDate.Reverse) }}
+      <div class="col-12 col-md-4 mb-2">
+        <div class="work work-summary responsive-widget">
+          {{ if .Params.thumbnail }}
+          <div class="work-image item">
+            <a href="{{ .RelPermalink }}">
+              <div class="image-container">
+                <img src="{{ .Params.thumbnail | relURL }}" class="responsive-image-container"/>
+              </div>
+            </a>
+          </div>
+          {{ end }}
+          <div class="work-content">
+            <h2 class="work-title">
+              <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            </h2>
+          </div>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+    <div class="row justify-content-center">
+      <div class="col-12 text-center mt-3">
+        <a class="button" href="{{ .Site.BaseURL }}news">More news</a>
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}
+
 <!--
 <div id="home" class="bg-light bg-cover bg-position-top bg-overlay" style='background-image: url("{{ .Params.background | relURL }}");'>
   <div class="pt-8 pb-8">
