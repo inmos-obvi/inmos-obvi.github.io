@@ -71,6 +71,27 @@
 @import 'pages/work/work-summary';
 @import 'pages/work/page-work-single';
 
+body {
+  overflow-x: hidden;
+}
+
+h1,
+h2,
+h3,
+p,
+a,
+li,
+.button {
+  max-width: 100%;
+  overflow-wrap: anywhere;
+}
+
+.container,
+.row,
+[class*='col-'] {
+  min-width: 0;
+}
+
 // Display breakpoints for DEV
 // body:after {
 //   color: #000000;
