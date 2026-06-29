@@ -23,8 +23,8 @@ You can also check all our publications on our **[Google Scholar profile](https:
 <div style="margin-bottom: 1.2rem;">
   <p style="margin: 0;">
     <strong>Pierre Friedlingstein, Corinne Le Quéré, Michael O'Sullivan, Judith Hauck, Peter Landschützer, Ingrid Luijkx, Hongmei Li, Auke van der Woude, Clemens Schwingshackl, Julia Pongratz, Pierre Regnier, Robbie Andrew, Dorothee Bakker, Josep Canadell, Philippe Ciais, Thomas Gasser, Matthew Jones, Xin Lan, Eric Morgan, Are Olsen, Glen Peters, Wouter Peters, Stephen Sitch, Hanqin Tian</strong><br>
-    <strong>Emerging climate impact on carbon sinks in a consolidated carbon budget</strong><br>
-    <i>Nature 649, pages98–103 (2026)</i>
+    <a href="https://doi.org/10.1038/s41586-025-09802-5" target="_blank"><strong>Emerging climate impact on carbon sinks in a consolidated carbon budget</strong></a><br>
+    <i><a href="https://www.nature.com/" target="_blank">Nature</a> volume 649, pages98–103 (2026)</i> <strong>DOI</strong>: 10.1038/s41586-025-09802-5
   </p>
 </div>
 
