@@ -11,7 +11,7 @@
   .container {
     min-height: inherit;
     display: flex;
-    justify-content: flex-start;
+    justify-content: center;
     flex-direction: column;
     max-width: 100%;
   }
@@ -21,9 +21,8 @@
   .hero-text {
     flex: 0;
     color: #ffffff;
-    margin: 0;
+    margin: auto 0;
     min-width: 0;
-    padding-top: clamp(24px, 8vh, 96px);
     h1,
     h2,
     p {
