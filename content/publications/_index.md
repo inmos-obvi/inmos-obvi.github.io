@@ -88,7 +88,7 @@ You can also check all our publications on our **[Google Scholar profile](https:
     <p style="margin: 0;">
       <strong>Seth M Bushinsky, Zachary Nachod, Andrea J Fassbender, Veronica Tamsitt, Yuichiro Takeshita, Nancy Williams</strong><br>
       <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024GB008185" target="_blank"><strong>Offset Between Profiling Float and Shipboard Oxygen Observations at Depth Imparts Bias on Float pH and Derived pCO<sub>2</sub></strong></a><br>
-      <i>Global Biogeochemical Cycles, 2025, 39(5)</i> <strong>DOI</strong>: 10.1029/2024GB008185
+      <i>Global Biogeochemical Cycles 39.5 (2025): e2024GB008185</i> <strong>DOI</strong>: 10.1029/2024GB008185
     </p>
     </div>
 

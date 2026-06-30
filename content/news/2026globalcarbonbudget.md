@@ -9,6 +9,6 @@ images: ['images/news/2026globalcarbonbudget-figure2.png']
 link: 'https://essd.copernicus.org/articles/18/3211/2026/'
 ---
 
-The [**Global Carbon Budget 2025**](https://essd.copernicus.org/articles/18/3211/2026/), with contributions from **Peter Landschützer (PI)**, **Ralph Keeling (Co-Lead PI)**, **Eric Morgan (Research Scientist)**, **Christian Rödenbeck (Co-I)**, and **Laure Resplandy (PI)**, has been published in *Earth System Science Data*. This annual community assessment quantifies the perturbation of the global carbon cycle caused by anthropogenic activities, including fossil fuel and land-use emissions and their partitioning among the atmosphere, ocean, and land.
+The <a href="https://essd.copernicus.org/articles/18/3211/2026/"><strong>Global Carbon Budget 2025</strong></a>, with contributions from **Peter Landschützer (PI)**, **Ralph Keeling (Co-Lead PI)**, **Eric Morgan (Research Scientist)**, **Christian Rödenbeck (Co-I)**, and **Laure Resplandy (PI)**, has been published in *Earth System Science Data*. This annual community assessment quantifies the perturbation of the global carbon cycle caused by anthropogenic activities, including fossil fuel and land-use emissions and their partitioning among the atmosphere, ocean, and land.
 
 DOI: [10.5194/essd-18-3211-2026](https://doi.org/10.5194/essd-18-3211-2026)
