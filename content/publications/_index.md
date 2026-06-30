@@ -69,8 +69,8 @@ You can also check all our publications on our **[Google Scholar profile](https:
 <div style="margin-bottom: 1.2rem;">
   <p style="margin: 0;">
     <strong>Paridhi Rustogi, Laure Resplandy, Enhui Liao, Brandon G Reichl, Luc Deike</strong><br>
-    <a href="https://www.authorea.com/users/839578/articles/1230159-influence-of-wave-induced-variability-on-ocean-carbon-uptake" target="_blank"><strong>Influence of wave-induced variability on ocean carbon uptake</strong></a><br>
-    <i>Global Biogeochemical Cycles, 2025</i> <strong>DOI</strong>: 10.1029/2024GB008382
+    <a href="https://doi.org/10.1029/2024GB008382" target="_blank"><strong>Influence of wave-induced variability on ocean carbon uptake</strong></a><br>
+    <i>Global Biogeochemical Cycles 39.6 (2025): e2024GB008382</i> <strong>DOI</strong>: 10.1029/2024GB008382
   </p>
   </div>
 
