@@ -4,8 +4,8 @@ title: 'Testing Assumptions in the Modeling of Radiocarbon in Ocean Biogeochemic
 heroHeading: 'Testing Assumptions in the Modeling of Radiocarbon in Ocean Biogeochemical Models (Preprint)'
 heroSubHeading: ''
 heroBackground: ''
-thumbnail: 'images/news/2025radiocarbonmodeling-figure4.png'
-images: ['images/news/2025radiocarbonmodeling-figure4.png']
+thumbnail: 'images/news/2025radiocarbonmodeling-figure4-updated.png'
+images: ['images/news/2025radiocarbonmodeling-figure4-updated.png']
 link: 'https://doi.org/10.22541/essoar.176314998.86676402/v1'
 ---
 
