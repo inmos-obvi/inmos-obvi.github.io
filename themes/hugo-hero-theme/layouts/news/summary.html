@@ -1,4 +1,4 @@
-<div class="work work-summary responsive-widget">
+<div class="work work-summary responsive-widget{{ if .Params.memorial }} work-summary-memorial{{ end }}">
   {{ if .Params.thumbnail }}
   <div class="work-image item ">
     <a href="{{ .RelPermalink }}">

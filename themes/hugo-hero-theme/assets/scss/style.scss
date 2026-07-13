@@ -86,6 +86,14 @@ li,
   overflow-wrap: anywhere;
 }
 
+.work-single {
+  hr {
+    border: 0;
+    border-top: 2px solid $primary;
+    margin: 2rem 0;
+  }
+}
+
 .container,
 .row,
 [class*='col-'] {

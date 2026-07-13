@@ -83,6 +83,19 @@
 .hero-image-setheight {
   min-height: 460px;
 }
+.hero-image-memorial {
+  background-color: #3f464d;
+  background-blend-mode: normal;
+  .hero-text {
+    color: #d6dbe1;
+    h1 {
+      color: #eef1f4;
+    }
+    .hero-section {
+      color: #c5ccd3;
+    }
+  }
+}
 .hero-image-blend-overlay {
   background-blend-mode: overlay;
 }
