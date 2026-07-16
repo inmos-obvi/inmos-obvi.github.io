@@ -5,7 +5,7 @@ draft: false
 image: "images/team/KimFaassen.jpeg"
 jobtitle: "Postdoctoral Researcher"
 promoted: true
-Website: https://research.wur.nl/en/persons/kim-faassen
+Website: https://scripps.ucsd.edu/profiles/kfaassen
 weight: 1
 tags: [Atmospheric Observations]
 ---

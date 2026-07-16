@@ -37,6 +37,21 @@
   }
 }
 
+.team-summary-memorial {
+  .team-meta {
+    .team-name,
+    .team-name a {
+      color: #5f6670 !important;
+    }
+    .team-memorial {
+      margin-top: 2px;
+      color: $black;
+      font-style: italic;
+      text-transform: none;
+    }
+  }
+}
+
 .team-summary-large {
   background-color: #ffffff;
   padding: 30px;

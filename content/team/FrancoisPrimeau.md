@@ -1,11 +1,12 @@
 ---
-title: "Francois William Primeau"
+title: "Francois Primeau"
 date: 2018-11-19T10:47:58+10:00
 draft: false
 image: "images/team/FrancoisPrimeau.jpg"
 jobtitle: "PI"
+memorial: true
 promoted: true
-Website: https://ps.uci.edu/node/2165
+Website: https://inmos-obvi.github.io/news/2026rememberingfrancoisprimeau/
 weight: 1
 tags: [Large-scale Modeling]
 ---

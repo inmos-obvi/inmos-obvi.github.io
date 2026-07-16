@@ -15,7 +15,7 @@
   <div class="team-content">    {{ .Content | truncate 120 "…" }}</div>
 </div> -->
 
-<div class="team team-summary team-summary-large">
+<div class="team team-summary team-summary-large{{ if .Params.memorial }} team-summary-memorial{{ end }}">
   {{ if .Params.image }}
   <div class="team-image">
     <img alt="Photo of {{ .Title }}" class="img-fluid mb-2" src="{{ .Params.image | relURL }}" />
@@ -28,6 +28,9 @@
     <h2 class="team-name">{{ .Title }}</h2>
     {{ end }}
     <p class="team-description">{{ .Params.Jobtitle }}</p>
+    {{ if .Params.memorial }}
+    <p class="team-memorial"><em>In Memoriam</em></p>
+    {{ end }}
     <p class="team-description">{{ .Content | truncate 120 "…" }}</p>
   </div>
   <div class="team-content">
