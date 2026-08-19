@@ -13,6 +13,15 @@ You can also check all our publications on our **[Google Scholar profile](https:
 ### 2026
 <div style="margin-bottom: 1.2rem;">
   <p style="margin: 0;">
+    <strong>Yuming Jin, Eric Morgan, Britton B. Stephens, Peter Landschützer, Timothy DeVries</strong><br>
+    <a href="https://essopenarchive.org/doi/full/10.22541/essoar.15006022/v1" target="_blank"><strong>Ocean heat-oxygen-carbon coupling constrains the climate-driven carbon sink</strong></a><br>
+    <i>ESS Open Archive Preprint. 13 July 2026</i> <strong>DOI</strong>: 10.22541/essoar.15006022/v1
+  </p>
+</div>
+
+
+<div style="margin-bottom: 1.2rem;">
+  <p style="margin: 0;">
     <strong>Renjian Li, Tim DeVries, David A Siegel, Francois W. Primeau</strong><br>
     <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2025GB008603" target="_blank"><strong>Seasonality in Marine Organic Carbon Export and Sequestration Pathways</strong></a><br>
     <i>Global Biogeochemical Cycles, 2026</i> <strong>DOI</strong>: 10.1029/2025GB008603
