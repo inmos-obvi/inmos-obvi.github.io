@@ -121,6 +121,15 @@ You can also check all our publications on our **[Google Scholar profile](https:
 
 <div style="margin-bottom: 1.2rem;">
   <p style="margin: 0;">
+    <strong>Seth M Bushinsky, Lionel A. Arteaga, Andrea J Fassbender, Judith Hauck, Matthew R Mazloff, Ivana Cerovecki, Peter Landschützer, Christian Roedenbeck, Christopher Danek, Anastasia Romanou, Paul Lerner, Alison R Gray, and Sarah Schlunegger </strong><br>
+    <a href="https://essopenarchive.org/doi/full/10.22541/essoar.176804975.57370146/v1" target="_blank"><strong>Nonlinear Interactions of Timing and Amplitude Biases in Modeled Southern Ocean pCO2: The Roles of Dissolved Inorganic Carbon, Total Alkalinity, and Sea Surface Temperature</strong></a><br>
+    <i>ESS Open Archive Preprint. 10 January 2026</i> <strong>DOI</strong>: 10.22541/essoar.176804975.57370146/v1
+  </p>
+</div>
+
+
+<div style="margin-bottom: 1.2rem;">
+  <p style="margin: 0;">
     <strong>Seth M. Bushinsky, Lionel A. Arteaga, Andrea J. Fassbender, Judith Hauck, Matthew R. Mazloff, Ivana Cerovečki, Peter Landschützer, Christopher Danek, Anastasia Romanou, Paul Lerner, Alison R. Gray, Sarah Schlunegger</strong><br>
     <strong>Evaluation of timing and amplitude biases in the 2 controls of simulated Southern Ocean pCO<sub>2</sub></strong><br>
     <i>Journal of Advances in Modeling Earth Systems (JAMES) Accepted 2026</i>
