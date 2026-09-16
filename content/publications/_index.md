@@ -13,6 +13,69 @@ You can also check all our publications on our **[Google Scholar profile](https:
 ### 2026
 <div style="margin-bottom: 1.2rem;">
   <p style="margin: 0;">
+    <strong>Paridhi Rustogi, Laure Resplandy, Seth Bushinsky and Luc Deike</strong><br>
+    <a href="https://doi.org/10.1088/1748-9326/ae612b" target="_blank"><strong>The influence of waves and bubbles on oxygen in the ocean interior</strong></a><br>
+    <i>Environ. Res. Lett. 21 094001 (2026)</i> <strong>DOI</strong>: 10.1088/1748-9326/ae612b
+  </p>
+</div>
+
+
+<div style="margin-bottom: 1.2rem;">
+  <p style="margin: 0;">
+    <strong>Bushinsky, Seth M., Zachary Nachod, Mathilde Jutras, Daniela König, Shannon McClish, and Charles Addey</strong><br>
+    <a href="https://doi.org/10.5194/essd-2026-311" target="_blank"><strong>BGC-Argo+: Global biogeochemical Argo float data with secondary quality control and derived parameters</strong></a><br>
+    <i>Earth System Science Data Discussions Preprint 2026</i> <strong>DOI</strong>: 10.5194/essd-2026-311
+  </p>
+</div>
+
+
+<div style="margin-bottom: 1.2rem;">
+  <p style="margin: 0;">
+    <strong>Maxime Keutgen De Greef, Laure Resplandy, Bianca Champenois, Mathieu Poupon, Weidong Li, Pedram Hassanzadeh, and Laure Zanna</strong><br>
+    <a href="https://doi.org/10.22541/essoar.15006794/v1" target="_blank"><strong>SamudraBGC: Machine Learning Emulation of Regional Mesoscale Ocean Biogeochemistry</strong></a><br>
+    <i>ESS Open Archive Preprint 2026</i> <strong>DOI</strong>: 10.22541/essoar.15006794/v1
+  </p>
+</div>
+
+
+<div style="margin-bottom: 1.2rem;">
+  <p style="margin: 0;">
+    <strong>Mamnun, N., Williams, B., Mukherjee, R., Hansman, R. L., Sonnerup, R., Tournebise, N., DeVries, T., and Graven, H.</strong><br>
+    <a href="https://doi.org/10.5194/essd-2026-691" target="_blank"><strong>A Comprehensive Global Ocean Radiocarbon Dataset (1700–2024) for Climate Applications</strong></a><br>
+    <i>Earth Syst. Sci. Data Discuss. Preprint 2026</i> <strong>DOI</strong>: 10.5194/essd-2026-691
+  </p>
+</div>
+
+
+<div style="margin-bottom: 1.2rem;">
+  <p style="margin: 0;">
+    <strong>Renjian Li, Tim DeVries</strong><br>
+    <strong>Reconciling geographic variations in particle transfer efficiency through the ocean’s twilight zone</strong><br>
+    <i>Science Advances Preprint 2026</i>
+  </p>
+</div>
+
+
+<div style="margin-bottom: 1.2rem;">
+  <p style="margin: 0;">
+    <strong>Arianna Olivelli, Peter Landschützer, and Seth Bushinsky</strong><br>
+    <strong>Global ocean deoxygenation trends are largely undetectable in machine learning reconstructions due to climate predictor sensitivity</strong><br>
+    <i>Machine Learning: Earth Preprint 2026</i>
+  </p>
+</div>
+
+
+<div style="margin-bottom: 1.2rem;">
+  <p style="margin: 0;">
+    <strong>Pedram Hassanzadeh, Weidong Li, Y Qiang Sun, Jiangdi Wang, Alexander Wikner, Justin Finkel, Jonathan Q Weare</strong><br>
+    <strong>Missing the Butterfly and Predicting the Past: Features or Bugs of Accurate AI Weather Models?</strong><br>
+    <i>Preprint 2026</i>
+  </p>
+</div>
+
+
+<div style="margin-bottom: 1.2rem;">
+  <p style="margin: 0;">
     <strong>Yuming Jin, Eric Morgan, Britton B. Stephens, Peter Landschützer, Timothy DeVries</strong><br>
     <a href="https://essopenarchive.org/doi/full/10.22541/essoar.15006022/v1" target="_blank"><strong>Ocean heat-oxygen-carbon coupling constrains the climate-driven carbon sink</strong></a><br>
     <i>ESS Open Archive Preprint. 13 July 2026</i> <strong>DOI</strong>: 10.22541/essoar.15006022/v1
@@ -58,9 +121,9 @@ You can also check all our publications on our **[Google Scholar profile](https:
 
 <div style="margin-bottom: 1.2rem;">
   <p style="margin: 0;">
-    <strong>Seth M Bushinsky, Lionel A. Arteaga, Andrea J Fassbender, Judith Hauck, Matthew R Mazloff, Ivana Cerovecki, Peter Landschützer, Christian Roedenbeck, Christopher Danek, Anastasia Romanou, Paul Lerner, Alison R Gray, and Sarah Schlunegger </strong><br>
-    <a href="https://essopenarchive.org/doi/full/10.22541/essoar.176804975.57370146/v1" target="_blank"><strong>Nonlinear Interactions of Timing and Amplitude Biases in Modeled Southern Ocean pCO2: The Roles of Dissolved Inorganic Carbon, Total Alkalinity, and Sea Surface Temperature</strong></a><br>
-    <i>ESS Open Archive Preprint. 10 January 2026</i> <strong>DOI</strong>: 10.22541/essoar.176804975.57370146/v1
+    <strong>Seth M. Bushinsky, Lionel A. Arteaga, Andrea J. Fassbender, Judith Hauck, Matthew R. Mazloff, Ivana Cerovečki, Peter Landschützer, Christopher Danek, Anastasia Romanou, Paul Lerner, Alison R. Gray, Sarah Schlunegger</strong><br>
+    <strong>Evaluation of timing and amplitude biases in the 2 controls of simulated Southern Ocean pCO<sub>2</sub></strong><br>
+    <i>Journal of Advances in Modeling Earth Systems (JAMES) Accepted 2026</i>
   </p>
 </div>
 
@@ -107,14 +170,5 @@ You can also check all our publications on our **[Google Scholar profile](https:
       <strong>Tournebise, N., DeVries, T., Graven, H., & Yamamoto, K.</strong><br>
       <a href="https://doi.org/10.22541/essoar.176314998.86676402/v1" target="_blank"><strong>Testing Assumptions in the Modeling of Radiocarbon in Ocean Biogeochemical Models</strong></a><br>
       <i>Essoar Preprint 2025</i> <strong>DOI</strong>: 10.22541/essoar.176314998.86676402/v1
-    </p>
-  </div>
-
-
-  <div style="margin-bottom: 1.2rem;">
-    <p style="margin: 0;">
-      <strong>P. Rustogi, L. Resplandy, S. Bushinsky and L. Deike</strong><br>
-      The influence of waves and bubbles on oxygen in the ocean interior<br>
-      <i>GOOD-OARS Summer School, Malaysia, 2025</i>
     </p>
   </div>
