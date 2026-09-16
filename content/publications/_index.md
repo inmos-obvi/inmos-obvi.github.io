@@ -139,9 +139,9 @@ You can also check all our publications on our **[Google Scholar profile](https:
 
 <div style="margin-bottom: 1.2rem;">
   <p style="margin: 0;">
-    <strong>Mathilde Jutras, Seth M Bushinsky, Ivana Cerovečki, Zachary Nachod, and Nicholas Hawco </strong><br>
-    <a href="https://essopenarchive.org/doi/full/10.22541/essoar.177100488.81138870/v1" target="_blank"><strong>Widespread increase of nitrate in subsurface waters over recent decades revealed by observations</strong></a><br>
-    <i>ESS Open Archive Preprint. 13 February 2026</i> <strong>DOI</strong>: 10.22541/essoar.177100488.81138870/v1
+    <strong>Mathilde Jutras, Seth M Bushinsky, Ivana Cerovečki, Zachary Nachod, and Nicholas Hawco</strong><br>
+    <strong>Widespread subsurface nitrate enrichment over recent decades revealed by observations</strong><br>
+    <i>Nature Geoscience Preprint 2026</i>
   </p>
 </div>
 
