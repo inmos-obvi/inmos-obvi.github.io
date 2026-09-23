@@ -68,7 +68,7 @@ You can also check all our publications on our **[Google Scholar profile](https:
 <div style="margin-bottom: 1.2rem;">
   <p style="margin: 0;">
     <strong>Pedram Hassanzadeh, Weidong Li, Y Qiang Sun, Jiangdi Wang, Alexander Wikner, Justin Finkel, Jonathan Q Weare</strong><br>
-    <strong>Missing the Butterfly and Predicting the Past: Features or Bugs of Accurate AI Weather Models?</strong><br>
+    <a href="https://doi.org/10.48550/arXiv.2608.25835" target="_blank"><strong>Missing the Butterfly and Predicting the Past: Features or Bugs of Accurate AI Weather Models?</strong></a><br>
     <i>Preprint 2026</i>
   </p>
 </div>
