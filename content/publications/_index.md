@@ -13,6 +13,15 @@ You can also check all our publications on our **[Google Scholar profile](https:
 ### 2026
 <div style="margin-bottom: 1.2rem;">
   <p style="margin: 0;">
+    <strong>Bhagtani, Dhruv, Laure Resplandy, Lijing Cheng, Juan Du, Christopher John Roach, Arianna Olivelli, and Takamitsu Ito</strong><br>
+    <a href="https://essopenarchive.org/doi/full/10.22541/essoar.15010795/v1" target="_blank"><strong>Model constraints on observational estimates imply stronger historical ocean deoxygenation</strong></a><br>
+    <i>ESS Open Archive. 21 October 2026</i> <strong>DOI</strong>: 10.22541/essoar.15010795/v1
+  </p>
+</div>
+
+
+<div style="margin-bottom: 1.2rem;">
+  <p style="margin: 0;">
     <strong>Paridhi Rustogi, Laure Resplandy, Seth Bushinsky and Luc Deike</strong><br>
     <a href="https://doi.org/10.1088/1748-9326/ae612b" target="_blank"><strong>The influence of waves and bubbles on oxygen in the ocean interior</strong></a><br>
     <i>Environ. Res. Lett. 21 094001 (2026)</i> <strong>DOI</strong>: 10.1088/1748-9326/ae612b
@@ -131,8 +140,8 @@ You can also check all our publications on our **[Google Scholar profile](https:
 <div style="margin-bottom: 1.2rem;">
   <p style="margin: 0;">
     <strong>Seth M. Bushinsky, Lionel A. Arteaga, Andrea J. Fassbender, Judith Hauck, Matthew R. Mazloff, Ivana Cerovečki, Peter Landschützer, Christopher Danek, Anastasia Romanou, Paul Lerner, Alison R. Gray, Sarah Schlunegger</strong><br>
-    <strong>Evaluation of timing and amplitude biases in the 2 controls of simulated Southern Ocean pCO<sub>2</sub></strong><br>
-    <i>Journal of Advances in Modeling Earth Systems (JAMES) Accepted 2026</i>
+    <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2026MS005774" target="_blank"><strong>Evaluation of timing and amplitude biases in the 2 controls of simulated Southern Ocean pCO<sub>2</sub></strong></a><br>
+    <i>Journal of Advances in Modeling Earth Systems (JAMES) 18.10 (2026)</i> <strong>DOI</strong>: 10.1029/2026MS005774
   </p>
 </div>
 
